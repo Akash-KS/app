@@ -671,9 +671,7 @@
       <string>twitch</string>
       <string>youtube</string>
       <string>bluesky</string>
-      <string>anchorfm</string>
-      <string>arcmobile2</string>
-      <string>cashme</string>
+      <string>com.amazon.mobile.shopping</string>
       <string>chatgpt</string>
       <string>comgooglemaps</string>
       <string>xai-grok</string>
@@ -682,7 +680,6 @@
       <string>fb-messenger</string>
       <string>fbauth</string>
       <string>flickr</string>
-      <string>foursquare</string>
       <string>github</string>
       <string>gemini</string>
       <string>google</string>
@@ -702,16 +699,19 @@
       <string>line</string>
       <string>linkedin</string>
       <string>nflx</string>
-      <string>org-appextension-feature-password-management</string>
       <string>paypal</string>
       <string>perplexity-app</string>
       <string>pinterest</string>
       <string>soundcloud</string>
       <string>tg</string>
-      <string>ai.character.app</string>
       <string>viber</string>
       <string>vimeo</string>
       <string>yelp</string>
+      <string>temu</string>
+      <string>shopify</string>
+      <string>wayfairapp</string>
+      <string>ymail</string>
+      <string>ms-outlook</string>
     </array>
     <key>CFBundleSignature</key>
     <string>????</string>
@@ -1322,7 +1322,7 @@
     <key>MinimumOSVersion</key>
     <string>15.0</string>
     <key>TWBuildNumber</key>
-    <string>11</string>
+    <string>12</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>This lets you download photos and videos to your Photos.</string>
     <key>SKAdNetworkItems</key>
@@ -1539,9 +1539,9 @@
     <key>CFBundleName</key>
     <string>Twitter</string>
     <key>CFBundleShortVersionString</key>
-    <string>11.33</string>
+    <string>11.35</string>
     <key>TWBuildTime</key>
-    <string>2025-10-23T01:51:36Z</string>
+    <string>2025-10-29T01:33:22Z</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>audio</string>
@@ -1594,15 +1594,15 @@
     <key>UIPrerenderedIcon</key>
     <true/>
     <key>DTAppStoreToolsBuild</key>
-    <string>16E137</string>
+    <string>17B54</string>
     <key>UIRequiresPersistentWiFi</key>
     <true/>
     <key>FirebaseScreenReportingEnabled</key>
     <false/>
     <key>BuildMachineOSBuild</key>
-    <string>24D81</string>
+    <string>24D70</string>
     <key>NSLocationUsageDescription</key>
-    <string>Enjoy the Twitter experience tailored to your location.</string>
+    <string>Enjoy Twitter tailored to your location.</string>
     <key>TWSharedApplicationGroupIdentifier</key>
     <string>group.com.atebits.Tweetie2</string>
     <key>DTPlatformName</key>
@@ -1612,11 +1612,11 @@
     <key>NSMicrophoneUsageDescription</key>
     <string>Capture and post videos with sound from Twitter.</string>
     <key>NSLocationWhenInUseUsageDescription</key>
-    <string>Enjoy the Twitter experience tailored to your location.</string>
+    <string>Enjoy Twitter experience tailored to your location.</string>
     <key>TWPushEnvironment</key>
     <string>3</string>
     <key>CFBundleVersion</key>
-    <string>10</string>
+    <string>12</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>DTCompiler</key>
@@ -1700,11 +1700,11 @@
     <key>DTPlatformBuild</key>
     <string>22B74</string>
     <key>NSContactsUsageDescription</key>
-    <string>We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on Twitter.</string>
+    <string>We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.</string>
     <key>DTXcode</key>
     <string>1610</string>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>Easily add photos on Twitter.</string>
+    <string>Allow access to share photos from your camera roll.</string>
     <key>UISupportedInterfaceOrientations</key>
     <array>
       <string>UIInterfaceOrientationPortrait</string>

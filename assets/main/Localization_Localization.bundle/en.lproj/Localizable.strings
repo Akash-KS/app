@@ -4,20 +4,601 @@ This file is auto-generated using Localization/scripts/concatenate_localizable_s
 This file is sorted by modules instead of alphabetically to help reduce merge conflicts.
 */
 
+"SETTINGS_PROFILE_ABOUT_ITEM_DESCRIPTION" = "Manage the location associated with your account";
+"SETTINGS_PROFILE_ABOUT_ITEM_TITLE" = "About your account";
+"SETTINGS_PROFILE_ABOUT_LOCATION_RESOLUTION_PREFERENCE_OPTION_COUNTRY_LABEL" = "Use Country";
+"SETTINGS_PROFILE_ABOUT_LOCATION_RESOLUTION_PREFERENCE_OPTION_REGION_LABEL" = "Use Region";
+"SETTINGS_PROFILE_ABOUT_LOCATION_RESOLUTION_PREFERENCE_TITLE" = "You can choose to show region or country on your account information";
+"VIDEO_SETTINGS_PICTURE_IN_PICTURE" = "Picture-in-Picture";
+"GROK_IMAGINE_ANIMATE_YOUR_PHOTO_BUTTON_TITLE" = "Animate Your Photos";
+"GROK_IMAGINE_COMPOSER_BUTTON_TITLE" = "Create Video";
+"GROK_IMAGINE_COMPOSER_BUTTON_TOOLTIP_TITLE" = "Make fun videos with Imagine";
+"GROK_IMAGINE_CONTENT_MODERATED_ALERT_MESSAGE" = "Try a different prompt";
+"GROK_IMAGINE_CONTENT_MODERATED_ALERT_TITLE" = "Content Moderated";
+"GROK_IMAGINE_EDIT_VIDEO_PROMPT_INPUT_PLACEHOLDER" = "Customize Video…";
+"GROK_IMAGINE_FAIL_TO_GENERATE_ALERT_TITLE" = "Generation Failed";
+"GROK_IMAGINE_GENERATE_VIDEO_PROMPT_INPUT_PLACEHOLDER" = "Describe your video…";
+"GROK_IMAGINE_GENERATING_TITLE" = "Generating…";
+"GROK_IMAGINE_OPEN_PHOTO_LIBRARY_BUTTON_TITLE" = "See All";
+"GROK_IMAGINE_PROMPT_USAGE_LIMIT_BANNER_DETAIL" = "You’ve reached your image understanding usage limit for now.";
+"GROK_IMAGINE_PROMPT_USAGE_LIMIT_BANNER_TITLE" = "Upgrade to Premium or Premium+";
+"PROFILE_ABOUT_YOUR_ACCOUNT_NAVIGATION_ITEM_TITLE_LABEL" = "About your account";
+"DM_MANAGE_CONVERSATION_SAFETY_NUMBER_ACTION_MARK_UNVERIFIED_TITLE" = "Mark unverified";
+"DM_MANAGE_CONVERSATION_SAFETY_NUMBER_ACTION_MARK_VERIFIED_TITLE" = "Mark verified";
+"DM_MANAGE_CONVERSATION_SAFETY_NUMBER_DESCRIPTION" = "Ensure safety number matches number displayed on %@’s device.";
+"DM_MANAGE_CONVERSATION_SAFETY_NUMBER_DESCRIPTION_FALLBACK" = "Ensure safety number matches number displayed on other user’s device.";
+"DM_MANAGE_CONVERSATION_SAFETY_NUMBER_TITLE" = "Safety number";
+"DM_MANAGE_CONVERSATION_SAFETY_NUMBER_UNVERIFIED_TITLE" = "Unverified";
+"DM_MANAGE_CONVERSATION_SAFETY_NUMBER_VERIFIED_TITLE" = "Verified";
+"PAYMENTS_OFFBOARDING_ERROR_HAS_ACCOUNT_BALANCE" = "You have pending balance in your account. Please transfer it out before trying again.";
+"PAYMENTS_OFFBOARDING_ERROR_HAS_ACTIVE_DISPUTES" = "You have active disputes in your account. You’ll have to wait for them to settle.";
+"PAYMENTS_OFFBOARDING_ERROR_HAS_CASHBACK_ACCOUNT_BALANCE" = "You have unredeemed cashback in your account. Please redeem it and transfer it out before trying again.";
+"PAYMENTS_OFFBOARDING_ERROR_HAS_PENDING_TRANSACTIONS" = "You have pending transactions in your account. You’ll have to wait for them to settle.";
+"PAYMENTS_OFFBOARDING_ERROR_INVALID_PAYMENT_METHOD" = "Please try again with a valid bank account or debit card.";
+"PAYMENTS_OFFBOARDING_ERROR_TITLE" = "Unable to close your account";
+"PAYMENTS_PHONE_CODE_VERIFICATION_SUBTITLE" = "We sent it to %@ to verify. Don’t see it? Send again.";
+"PAYMENTS_PHONE_CODE_VERIFICATION_SUBTITLE_RESEND_LINK" = "Send again";
+"PAYMENTS_PHONE_CODE_VERIFICATION_TITLE" = "Enter the code we sent you";
+"PAYMENTS_PHONE_VERIFICATION_DISCLAIMER" = "We’ll send an SMS verification code. By entering your number, you agree to receive transactional messaging about your account.";
+"PAYMENTS_PHONE_VERIFICATION_ERROR_ASSOCIATION" = "This phone number is already associated with another account.";
+"PAYMENTS_PHONE_VERIFICATION_ERROR_CARRIER" = "Unable to contact your carrier, please try again later.";
+"PAYMENTS_PHONE_VERIFICATION_ERROR_GENERIC" = "We were unable to proceed with this action, please try again later.";
+"PAYMENTS_PHONE_VERIFICATION_ERROR_INVALID" = "Please double check the phone number entered and try again.";
+"PAYMENTS_PHONE_VERIFICATION_ERROR_NOT_SUPPORTED" = "This phone number is not supported.";
+"PAYMENTS_PHONE_VERIFICATION_ERROR_RATE_LIMIT" = "Too many attempts, please try again later.";
+"PAYMENTS_PHONE_VERIFICATION_ERROR_WRONG_PIN" = "Please double check the code entered and try again.";
+"PAYMENTS_PHONE_VERIFICATION_SUBTITLE" = "Make sure this is a valid phone number. We will send a code or call you to validate it.";
+"PAYMENTS_PHONE_VERIFICATION_TITLE" = "Enter your US phone number";
+"PAYMENTS_REONBOARD_ACTION" = "Reopen my account";
+"PAYMENTS_REVEAL_ACTION" = "Reveal";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_ORIGINAL_TRANSACTION" = "Original transaction";
+"PAYMENTS_TRANSACTION_TYPE_GOODWILL_CREDIT" = "Goodwill Credit";
+
+
+"DM_DISPLAY_NAME_YOU" = "You";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_FILE" = "Sent a file";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_GIF" = "Sent a GIF";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_LINK" = "Sent a link";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_PHOTO" = "Sent a photo";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_POST" = "Sent a Tweet";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_UNKNOWN" = "Sent an attachment";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_VIDEO" = "Sent a video";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNNAMED_SENT_VOICE_MESSAGE" = "Sent a voice message";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_FILE" = "•|•%@•|•: Sent a file";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_GIF" = "•|•%@•|•: Sent a GIF";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_LINK" = "•|•%@•|•: Sent a link";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_PHOTO" = "•|•%@•|•: Sent a photo";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_POST" = "•|•%@•|•: Sent a Tweet";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_UNKNOWN" = "•|•%@•|•: Sent an attachment";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_VIDEO" = "•|•%@•|•: Sent a video";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_USER_SENT_VOICE_MESSAGE" = "•|•%@•|•: Sent a voice message";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_FILE" = "You sent a file";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_GIF" = "You sent a GIF";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_LINK" = "You sent a link";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_PHOTO" = "You sent a photo";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_POST" = "You sent a Tweet";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_UNKNOWN" = "You sent an attachment";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_VIDEO" = "You sent a video";
+"DM_MESSAGE_PREVIEW_ATTACHMENT_YOU_SENT_VOICE_MESSAGE" = "You sent a voice message";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_FALLBACK" = "Reacted %@";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_FILE" = "Reacted %@ to a file";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_GIF" = "Reacted %@ to a GIF";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_LINK" = "Reacted %@ to a link";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_PHOTO" = "Reacted %@ to a photo";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_POST" = "Reacted %@ to a Tweet";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_TEXT" = "Reacted %1$@ to “%2$@”";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_UNKNOWN" = "Reacted %@ to an attachment";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_VIDEO" = "Reacted %@ to a video";
+"DM_MESSAGE_PREVIEW_REACTION_UNNAMED_REACTED_TO_VOICE_MESSAGE" = "Reacted %@ to a voice message";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_FALLBACK" = "•|•%1$@•|•: Reacted %2$@";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_FILE" = "•|•%1$@•|•: Reacted %2$@ to a file";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_GIF" = "•|•%1$@•|•: Reacted %2$@ to a GIF";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_LINK" = "•|•%1$@•|•: Reacted %2$@ to a link";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_PHOTO" = "•|•%1$@•|•: Reacted %2$@ to a photo";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_POST" = "•|•%1$@•|•: Reacted %2$@ to a Tweet";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_TEXT" = "•|•%1$@•|•: Reacted %2$@ to “%3$@”";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_UNKNOWN" = "•|•%1$@•|•: Reacted %2$@ to an attachment";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_VIDEO" = "•|•%1$@•|•: Reacted %2$@ to a video";
+"DM_MESSAGE_PREVIEW_REACTION_USER_REACTED_TO_VOICE_MESSAGE" = "•|•%1$@•|•: Reacted %2$@ to a voice message";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_FALLBACK" = "You reacted %@";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_FILE" = "You reacted %@ to a file";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_GIF" = "You reacted %@ to a GIF";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_LINK" = "You reacted %@ to a link";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_PHOTO" = "You reacted %@ to a photo";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_POST" = "You reacted %@ to a Tweet";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_TEXT" = "You reacted %1$@ to “%2$@”";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_UNKNOWN" = "You reacted %@ to an attachment";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_VIDEO" = "You reacted %@ to a video";
+"DM_MESSAGE_PREVIEW_REACTION_YOU_REACTED_TO_VOICE_MESSAGE" = "You reacted %@ to a voice message";
+"DM_MESSAGE_PREVIEW_TEXT_FORWARDED_TEXT" = "Forwarded: “%@”";
+"DM_MESSAGE_PREVIEW_TEXT_USER_FORWARDED_TEXT" = "•|•%1$@•|• forwarded: “%2$@”";
+"DM_MESSAGE_PREVIEW_TEXT_USER_SENT_TEXT" = "•|•%1$@•|•: %2$@";
+"DM_NOTIFICATION_GROUP_SUBTITLE_MENTION_PREFIX" = "Mentioned you – %@";
+"DM_NOTIFICATION_GROUP_SUBTITLE_REPLY_PREFIX" = "Replied to you – %@";
+"AGE_ASSURANCE_BUTTON_TAKE_QUICK_SELFIE_LABEL" = "Confirm with Selfie";
+"AGE_ASSURANCE_BUTTON_USE_SELFIE_AND_ID_LABEL" = "Use Selfie and ID";
+"AGE_ASSURANCE_OR_LABEL" = "or";
+"AGE_ASSURANCE_PHOTO_SHARING_CONSENT" = "By continuing, you consent to Twitter and xAI using your photo to confirm your age and for Twitter safety, security and fraud prevention. Your photo will not be stored. Twitter and xAI may retain your age information.";
+"AGE_ASSURANCE_PHOTO_UPLOAD_FAILED_LABEL" = "Image failed to upload, tap continue to retry.";
+"AGE_ASSURANCE_SELFIE_PROCESSING_LABEL" = "Analyzing selfie with Grok…";
+"AGE_ASSURANCE_SHEET_AGE_VERIFICATION_EXPLANATION" = "To comply with new regulations in the European Union and United Kingdom, Twitter must verify your age before viewing various types of content.";
+"AGE_ASSURANCE_SHEET_PHOTO_PRIVACY_LABEL" = "Photos are not saved";
+"AGE_ASSURANCE_SHEET_TITLE_CONFIRMATION" = "Confirm age instantly";
+"AGE_ASSURANCE_VERIFICATION_FAILED_CONTENT_HIDDEN" = "We couldn’t verify your age. Sensitive content is hidden due to age restrictions.";
+"AGE_ASSURANCE_VERIFICATION_SUCCESS_CONTENT_VIEWABLE" = "We’ve verified your age. You can now access sensitive content.";
+"COMPOSITION_COMPLETE_SENDING_TWEET_TOAST_NOTIFICATION_MESSAGE_SHARE" = "Your Tweet was sent. Tap to share:";
+"COMPOSITION_COMPLETE_SENDING_TWEET_TOAST_SHARE_BUTTON_TITLE" = "Share your Tweet";
+"IDENTITY_VERIFICATION_INTRO_USER_CONSENT_AGE_ASSURANCE" = "I agree to Twitter and Persona using images of my ID and my photo to confirm my age. Your photo will not be stored. Twitter and xAI may retain your age information. %@";
+"JET_PROFILE_PICTURE_ADD_PROFILE_PHOTO" = "Add Profile Photo";
+"JET_PROFILE_PICTURE_CANCEL" = "Cancel";
+"JET_PROFILE_PICTURE_CHANGE_PHOTO_TITLE" = "Change Photo";
+"JET_PROFILE_PICTURE_IMPORTED_FROM_CONTACTS" = "Imported from Contacts";
+"JET_PROFILE_PICTURE_PHOTO_UPDATED" = "Photo updated";
+"JET_PROFILE_PICTURE_REMOVE_PHOTO" = "Remove photo";
+"JET_PROFILE_PICTURE_TAKE_PHOTO" = "Take Photo";
+"JET_PROFILE_PICTURE_UPLOAD_FROM_CAMERA_ROLL" = "Upload from Camera Roll";
+"OPEN_IN_BROWSER_ACTION_LABEL" = "Open in browser";
+"SHOW_READER_ACTION_LABEL" = "Show reader";
+"VIEW_ACTIVITY_LABEL" = "View activity";
+"TOASTS_GENERAL_UNDO_LABEL" = "Undo";
+"GROK_HOME_PRESET_CREATE_VIDEOS" = "Create Videos";
+"GROK_HOME_PRESET_TALK_TO_COMPANION_FORMAT" = "Talk to %@";
+"GROK_HOME_PRESET_VOICE_MODE" = "Voice Mode";
+"GROK_IMAGINE_COMPOSER_CONTENT_MODERATED" = "Content moderated";
+"GROK_IMAGINE_COMPOSER_FAIL_AND_RETRY" = "Failed to generate video, tap to try again";
+"GROK_IMAGINE_COMPOSER_FAIL_TO_START_TITLE" = "Failed to start Grok Imagine";
+"GROK_IMAGINE_COMPOSER_PREPARING_TITLE" = "Preparing Grok Imagine…";
+"GROK_IMAGINE_PILL_BUTTON_GENERATE_VIDEO_TITLE" = "Video";
+"GROK_IMAGINE_PILL_BUTTON_RETRY_TITLE" = "Retry";
+"GROK_IMAGINE_REDO_BUTTON_TITLE" = "Redo";
+"GROK_IMAGINE_REDO_PROMPT_BUTTON_TITLE" = "Edit Video";
+"GROK_IMAGINE_REDO_PROMPT_SHEET_BUTTON_TITLE" = "Generate Video";
+"GROK_IMAGINE_REDO_PROMPT_SHEET_INPUT_PLACEHOLDER" = "Describe what you want to edit";
+"GROK_IMAGINE_REDO_PROMPT_SHEET_SUBTITLE" = "Customize your video by writing a prompt";
+"GROK_IMAGINE_REDO_PROMPT_SHEET_TITLE" = "Write a prompt for your video";
+"GROK_IMAGINE_REDO_PROMPT_TITLE" = "Prompt";
+"GROK_IMAGINE_TRANSFER_IMAGE_FAILURE_MESSAGE" = "Failed to transfer image";
+"GROK_IMAGINE_TRANSFER_IMAGE_PROCESSING_MESSAGE" = "Transferring image to Grok…";
+"GROK_IMAGINE_WITH_GROK_BUTTON_TITLE" = "Make Video with Grok";
+"GROK_INPUT_BUTTON_VOICE_MODE_STOP_TITLE" = "Stop";
+"GROK_INPUT_BUTTON_VOICE_MODE_TITLE" = "Speak";
+"GROK_STEERING_QUICK_ANSWER_TITLE" = "Quick answer";
+"GROK_STEERING_THINK_HAEDER_TITLE" = "Think harder";
+"GROK_VOICE_MODE_SETTINGS_ROW_TITLE_AUDIO_DEVICE" = "Select Audio Device";
+"GROK_VOICE_MODE_SETTINGS_SCREEN_TITLE" = "Voice Settings";
+"GROK_VOICE_MODE_SETTINGS_SECTION_TITLE_PERSONALITY" = "Personality";
+"GROK_VOICE_MODE_SETTINGS_SECTION_TITLE_SPEED" = "Speed";
+"GROK_VOICE_MODE_SETTINGS_SECTION_TITLE_VOICE" = "Voice";
+"GROK_VOICE_MODE_STATUS_CONNECTING" = "Connecting…";
+"GROK_VOICE_MODE_STATUS_ERROR" = "Try again later";
+"GROK_VOICE_MODE_STATUS_START_TALKING" = "Start talking";
+"PROFILE_ABOUT_THIS_ACCOUNT_ACCOUNT_BASED_TITLE_LABEL" = "Account based in";
+"PROFILE_ABOUT_THIS_ACCOUNT_AFFILIATE_TITLE_STRING" = "An affiliate of •|•%@•|•";
+"PROFILE_ABOUT_THIS_ACCOUNT_CONNECTED_VIA_TITLE_LABEL" = "Connected via";
+"PROFILE_ABOUT_THIS_ACCOUNT_DATE_AND_COUNTRY_CREATED_LABEL" = "%1$@ in %2$@";
+"PROFILE_ABOUT_THIS_ACCOUNT_DATE_JOINED_TITLE_LABEL" = "Date joined";
+"PROFILE_ABOUT_THIS_ACCOUNT_GET_VERIFIED_UPGRADE_BUTTON_LABEL" = "Upgrade to get verified";
+"PROFILE_ABOUT_THIS_ACCOUNT_LAST_USERNAME_CHANGE_LABEL" = "Last on %@";
+"PROFILE_ABOUT_THIS_ACCOUNT_NAVIGATION_ITEM_TITLE_LABEL" = "About this account";
+"PROFILE_ABOUT_THIS_ACCOUNT_USERNAME_CHANGES_PLURAL_TITLE_LABEL" = "%@ username changes";
+"PROFILE_ABOUT_THIS_ACCOUNT_USERNAME_CHANGES_SINGULAR_TITLE_LABEL" = "1 username change";
+"PROFILE_ABOUT_THIS_ACCOUNT_VERIFIED_SINCE_LABEL" = "Since %@";
+"PROFILE_ABOUT_THIS_ACCOUNT_VERIFIED_TITLE_LABEL" = "Verified";
+"TWEET_DETAILS_TRANSLATION_NO_SOURCE_LANGUAGE_TRANSLATED_BUTTON_TITLE" = "Translated";
+"TWEET_DETAILS_TRANSLATION_SOURCE_LANGUAGE_TRANSLATED_BUTTON_TITLE_FORMAT" = "Translated from %@";
+"DM_CONNECTION_STATUS_UPDATE_REQUIRED_TITLE" = "Update required";
+"DM_CONVERSATION_ACTION_ADD_MEMBERS_TITLE" = "Add members";
+"DM_CONVERSATION_ACTION_DM_BLOCK_CONVERSATION_TITLE" = "Block messages";
+"DM_CONVERSATION_ACTION_DM_UNBLOCK_CONVERSATION_TITLE" = "Unblock messages";
+"DM_CONVERSATION_ACTION_MESSAGE_CONVERSATION_TITLE" = "Message";
+"DM_CONVERSATION_ENCRYPTION_UPSELL_DEFAULT_GROUP_MESSAGE" = "This is a legacy group conversation which does not support encryption.";
+"DM_CONVERSATION_ENCRYPTION_UPSELL_DEFAULT_MESSAGE" = "The person you’re messaging needs to register for encrypted messages in order to send and receive encrypted messages.\n\nInvite them to get set up.";
+"DM_CONVERSATION_ENCRYPTION_UPSELL_DEFAULT_TITLE" = "Messages are unencrypted";
+"DM_CONVERSATION_ENCRYPTION_UPSELL_LOCKED_FEATURE_GROUP_MESSAGE" = "This is a legacy group conversation which does not support encryption.\n\nCreate a new encrypted group conversation to use this feature.";
+"DM_CONVERSATION_ENCRYPTION_UPSELL_LOCKED_FEATURE_GROUP_TITLE" = "This feature only works with encrypted conversations";
+"DM_CONVERSATION_ENCRYPTION_UPSELL_LOCKED_FEATURE_MESSAGE" = "The person you’re messaging needs to register for encrypted messages in order to use this feature.\n\nInvite them to get set up.";
+"DM_CONVERSATION_ENCRYPTION_UPSELL_LOCKED_FEATURE_TITLE" = "Enable encryption to use this feature";
+"DM_CONVERSATION_FOOTER_MESSAGE_REQUESTS_ACTION_ACCEPT_TITLE" = "Accept";
+"DM_CONVERSATION_FOOTER_MESSAGE_REQUESTS_ACTION_BLOCK_TITLE" = "Block";
+"DM_CONVERSATION_FOOTER_MESSAGE_REQUESTS_ACTION_DELETE_TITLE" = "Delete";
+"DM_CONVERSATION_FOOTER_MESSAGE_REQUESTS_UNNAMED_TITLE" = "Do you want to let this user message you? They won’t know you’ve seen their message until you accept.";
+"DM_CONVERSATION_FOOTER_MESSAGE_REQUESTS_USER_TITLE" = "Do you want to let •|•%@•|• message you? They won’t know you’ve seen their message until you accept.";
+"DM_CONVERSATION_FOOTER_READ_ONLY_REASON_GROUP_DOES_NOT_EXIST_TITLE" = "Group not found. Loading…";
+"DM_CONVERSATION_FOOTER_READ_ONLY_REASON_NO_PERMISSION_TITLE" = "You cannot send messages to this user.";
+"DM_CONVERSATION_FOOTER_SEARCH_NO_RESULTS_TITLE" = "Not found";
+"DM_CONVERSATION_FOOTER_SEARCH_RESULTS_TITLE" = "%1$@ of %2$@ matches";
+"DM_CONVERSATION_HEADER_FOLLOWERS_COUNT_TITLE" = "%@ Followers";
+"DM_CONVERSATION_HEADER_FOLLOWER_COUNT_TITLE" = "%@ Follower";
+"DM_CONVERSATION_HEADER_JOINED_DATE_TITLE" = "Joined %@";
+"DM_CONVERSATION_INFORMATIONAL_AV_CALL_BUTTON_CALL_BACK_TITLE" = "Call back";
+"DM_CONVERSATION_INFORMATIONAL_NEW_MESSAGE_DATE" = "%@ •|•New•|•";
+"DM_CONVERSATION_INFORMATIONAL_NEW_MESSAGE_DATE_FALLBACK" = "•|•New•|•";
+"DM_CONVERSATION_INFORMATIONAL_NEW_MESSAGE_DATE_TODAY" = "Today •|•New•|•";
+"DM_CONVERSATION_INFORMATIONAL_NEW_MESSAGE_DATE_TODAY_WITH_TIME" = "Today %@ •|•New•|•";
+"DM_CONVERSATION_INFORMATIONAL_NEW_MESSAGE_DATE_YESTERDAY" = "Yesterday •|•New•|•";
+"DM_CONVERSATION_INFORMATIONAL_NEW_MESSAGE_DATE_YESTERDAY_WITH_TIME" = "Yesterday %@ •|•New•|•";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_1_AS_ADMIN" = "%@ resigned as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_2_AS_ADMIN" = "%1$@ and %2$@ resigned as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_MANY_AS_ADMIN" = "%1$@ and %2$@ others resigned as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_1_USER_AS_ADMIN" = "%@ was added as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_2_USERS_AS_ADMIN" = "%1$@ and %2$@ were added as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_MANY_USERS_AS_ADMIN" = "%1$@ and %2$@ others were added as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_YOU_AND_1_USER_AS_ADMIN" = "You and %@ were added as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_YOU_AND_MANY_USERS_AS_ADMIN" = "You and %@ others were added as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_YOU_AS_ADMIN" = "You were added as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_1_USER_AS_ADMIN" = "%@ was removed as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_2_USERS_AS_ADMIN" = "%1$@ and %2$@ were removed as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_MANY_USERS_AS_ADMIN" = "%1$@ and %2$@ others were removed as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_YOU_AS_ADMIN" = "You were removed as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_1_USER_AS_ADMIN" = "%1$@ added %2$@ as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_2_USERS_AS_ADMIN" = "%1$@ added %2$@ and %3$@ as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_MANY_USERS_AS_ADMIN" = "%1$@ added %2$@ and %3$@ others as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_YOU_AND_1_USER_AS_ADMIN" = "%1$@ added you and %2$@ as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_YOU_AND_MANY_USERS_AS_ADMIN" = "%1$@ added you and %2$@ others as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_YOU_AS_ADMIN" = "%@ added you as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_ADDED_1_USER_AS_ADMIN" = "You added %@ as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_ADDED_2_USERS_AS_ADMIN" = "You added %1$@ and %2$@ as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_ADDED_MANY_USERS_AS_ADMIN" = "You added %1$@ and %2$@ others as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_LEFT_AS_ADMIN" = "You resigned as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_REMOVED_1_USER_AS_ADMIN" = "You removed %@ as an admin";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_REMOVED_2_USERS_AS_ADMIN" = "You removed %1$@ and %2$@ as admins";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_REMOVED_MANY_USERS_AS_ADMIN" = "You removed %1$@ and %2$@ others as admins";
+"DM_CONVERSATION_MEMBERS_COUNT_PLURAL_TITLE" = "%@ members";
+"DM_CONVERSATION_MEMBERS_COUNT_SINGULAR_TITLE" = "1 member";
+"DM_CONVERSATION_MESSAGE_COMPOSER_ATTACHMENT_ACTION_CONVERT_TO_TEXT" = "Convert to text";
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_LEGACY_PLACEHOLDER" = "Unencrypted message";
+"DM_CONVERSATION_PARTICIPANT_LIST_SEARCH_PLACEHOLDER_TEXT" = "Search members";
+"DM_CONVERSATION_TYPING_INDICATOR_SINGLE_PERSON_GENERIC" = "Typing…";
+"DM_EDIT_NICKNAME_NAME_ADD_NAME_TITLE" = "Add nickname";
+"DM_EDIT_NICKNAME_NAME_EDIT_NAME_TITLE" = "Edit nickname";
+"DM_EMPTY_CONVERSATION_FALLBACK_TITLE" = "This conversation looks pretty empty.";
+"DM_EMPTY_CONVERSATION_WITH_USERS_TITLE" = "This conversation with %@ looks pretty empty.";
+"DM_ERROR_VIEW_RESTART_BUTTON_TITLE" = "Restart";
+"DM_ERROR_VIEW_RESTART_SUBTITLE" = "Try restarting the app.";
+"DM_ERROR_VIEW_RESTART_TITLE" = "Oops! An unexpected error occurred.";
+"DM_ERROR_VIEW_RETRY_BUTTON_TITLE" = "Retry";
+"DM_ERROR_VIEW_RETRY_SUBTITLE" = "Tap Retry or try restarting the app.";
+"DM_ERROR_VIEW_RETRY_TITLE" = "Oops! An unexpected error occurred, please try again.";
+"DM_FORWARD_SHEET_COMPOSER_PLACEHOLDER_TEXT" = "Send with a message";
+"DM_FORWARD_SHEET_LEGACY_CONVERSATION_ALERT_MESSAGE" = "This is a legacy conversation which does not support message forwarding.";
+"DM_FORWARD_SHEET_LEGACY_CONVERSATION_ALERT_TITLE" = "Cannot forward message";
+"DM_FORWARD_SHEET_TOAST_CONVERSATION" = "Message forwarded to %@";
+"DM_FORWARD_SHEET_TOAST_CONVERSATION_FALLBACK" = "Message forwarded";
+"DM_FORWARD_SHEET_TOAST_MULTIPLE_CONVERSATIONS" = "Message forwarded to multiple conversations";
+"DM_GROUP_INVITE_REQUEST_TO_JOIN_ERROR_ALREADY_REQUESTED_TITLE" = "You’ve already requested to join this group";
+"DM_GROUP_INVITE_REQUEST_TO_JOIN_ERROR_MISSING_PUBLIC_KEY_ACTION_SET_PASSCODE" = "Set passcode";
+"DM_GROUP_INVITE_REQUEST_TO_JOIN_ERROR_MISSING_PUBLIC_KEY_MESSAGE" = "You’ll need to register and set a passcode before you can accept this invite.";
+"DM_GROUP_INVITE_REQUEST_TO_JOIN_ERROR_MISSING_PUBLIC_KEY_TITLE" = "Registration required";
+"DM_INBOX_PILL_MARK_ALL_READ_MENU_TITLE" = "Mark all as read";
+"DM_INBOX_PILL_MONEY_TITLE" = "Money";
+"DM_INBOX_PILL_REQUESTS_TITLE" = "Requests";
+"DM_INBOX_PILL_UNENCRYPTED_TOOLTIP_TITLE" = "Access your old Inbox here";
+"DM_INBOX_REQUESTS_EMPTY_MESSAGE" = "Incoming messages from people you don’t follow will show up here, and you’ll be able to accept or ignore them";
+"DM_INBOX_REQUESTS_EMPTY_TITLE" = "No requests yet";
+"DM_INBOX_REQUESTS_HEADER_LEGACY_BUTTON_MESSAGE" = "View message requests from unencrypted conversations";
+"DM_INBOX_REQUESTS_HEADER_LEGACY_BUTTON_TITLE" = "Unencrypted message requests";
+"DM_INBOX_REQUESTS_HEADER_TITLE" = "Message requests from people you don’t follow live here. To reply to their messages, you need to accept the request. •|•Learn more•|•";
+"DM_INBOX_TIMESTAMP_HOURS" = "%@h";
+"DM_INBOX_TIMESTAMP_MINUTES" = "%@m";
+"DM_INBOX_UNIFIED_TAB_PROMPT_MESSAGE" = "Access your Chats and DMs in one place";
+"DM_INBOX_UNIFIED_TAB_PROMPT_SHEET_ENABLE_BUTTON_TITLE" = "Enable";
+"DM_INBOX_UNIFIED_TAB_PROMPT_SHEET_MAYBE_LATER_BUTTON_TITLE" = "Maybe later";
+"DM_INBOX_UNIFIED_TAB_PROMPT_SHEET_MESSAGE" = "Make it easy to catch up on your end-to-end encrypted messages by moving your Chats into the DMs tab.";
+"DM_INBOX_UNIFIED_TAB_PROMPT_SHEET_TITLE" = "Access your Chats and DMs in one place";
+"DM_INBOX_UNIFIED_TAB_PROMPT_TITLE" = "Move Chats into your DMs tab";
+"DM_INBOX_UNREAD_EMPTY_MESSAGE" = "Unread conversations will show up here";
+"DM_INBOX_UNREAD_EMPTY_TITLE" = "You’re all caught up!";
+"DM_MANAGE_CONVERSATION_ACTION_NICKNAME_TITLE" = "Nickname";
+"DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_ALERT_ACTION" = "Resign";
+"DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_ALERT_MESSAGE" = "Another admin will have to re-add you to regain admin privileges.";
+"DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_ALERT_TITLE" = "Resign as admin?";
+"DM_MANAGE_CONVERSATION_ACTION_SET_NICKNAME_TITLE" = "Set nickname";
+"DM_MANAGE_CONVERSATION_ACTION_SET_TTL_ERROR_TITLE" = "Unable to set disappearing messages";
+"DM_MANAGE_CONVERSATION_NICKNAME_DESCRIPTION" = "Nicknames are end-to-end encrypted and visible only to you.";
+"DM_MESSAGE_ACTION_COPY_RESULT_ERROR_TITLE" = "Failed to copy";
+"DM_MESSAGE_ACTION_COPY_RESULT_LOADING_TITLE" = "Copying…";
+"DM_MESSAGE_ACTION_COPY_RESULT_SUCCESS_TITLE" = "Copied";
+"DM_MESSAGE_ACTION_FORWARD_TITLE" = "Forward";
+"DM_MESSAGE_ACTION_GROK_ANALYZE_TITLE" = "Ask Grok";
+"DM_MESSAGE_ACTION_GROK_EDIT_PHOTO_TITLE" = "Edit Photo with Grok";
+"DM_MESSAGE_ACTION_SAVE_RESULT_ERROR_TITLE" = "Failed to save";
+"DM_MESSAGE_ACTION_SAVE_RESULT_SUCCESS_TITLE" = "Saved";
+"DM_MESSAGE_ATTACHMENT_ACTION_TAP_TO_DOWNLOAD_TITLE" = "Tap to download";
+"DM_MESSAGE_ATTACHMENT_ACTION_TAP_TO_VIEW_TITLE" = "Tap to view";
+"DM_MESSAGE_ATTACHMENT_DOWNLOADING_TITLE" = "Downloading…";
+"DM_MESSAGE_ATTACHMENT_UNKNOWN_SUBTITLE" = "Update your app to view";
+"DM_MESSAGE_ATTACHMENT_UNKNOWN_TITLE" = "Unknown attachment";
+"DM_MESSAGE_DETAILS_ENCRYPTED_TITLE" = "Encrypted";
+"DM_MESSAGE_FORWARDED_HEADER_TITLE" = "Forwarded";
+"DM_NEW_CONVERSATION_ACTION_SELECT_USER_ERROR_CANNOT_ADD_TO_GROUP" = "Cannot add this user";
+"DM_PULL_FAILURE_TITLE" = "Your messages failed to load.";
+"PAYMENTS_ACCOUNT_TYPE" = "Account Type";
+"PAYMENTS_CARD_SPEND_BOTH_CARDS_LOCKED_TITLE" = "Your cards are locked";
+"PAYMENTS_CARD_SPEND_LOCKED_STATUS" = "Locked";
+"PAYMENTS_CARD_SPEND_LOCK_ACTION" = "Card lock";
+"PAYMENTS_CARD_SPEND_LOCK_UNLOCK_SUBTITLE" = "Future transactions will be declined";
+"PAYMENTS_CARD_SPEND_LOCK_UNLOCK_TITLE" = "Select the cards that you want to lock";
+"PAYMENTS_CARD_SPEND_ORDER_CARD_REPLACEMENT_ACTION" = "Order a card replacement";
+"PAYMENTS_CARD_SPEND_ORDER_CARD_REPLACEMENT_DISCLAIMER" = "If you think your card got lost in the mail";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_DELIVERED_SUBTITLE" = "Tap here to activate";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_DELIVERED_TITLE" = "Your card should have been delivered";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_DELIVERY_FAILED_SUBTITLE" = "Re-order a new one today.";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_DELIVERY_FAILED_TITLE" = "We were unable to deliver your card";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_LOCKED_BY_SUPPORT_TITLE" = "Card disabled: contact support";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_WITH_TRACKING_TITLE" = "Your card should arrive by %@";
+"PAYMENTS_CARD_SPEND_REPLACE_ACTION" = "Replace card";
+"PAYMENTS_CARD_SPEND_SHIPPING_ACTIVATE_NOW_ACTION" = "Activate my card now";
+"PAYMENTS_CARD_SPEND_SHIPPING_ACTIVATE_NOW_DISCLAIMER" = "Verify receipt of the card prior to activation";
+"PAYMENTS_CARD_SPEND_SHIPPING_TRACK_ACTION" = "Track my card";
+"PAYMENTS_CARD_SPEND_UNLOCKED_STATUS" = "Unlocked";
+"PAYMENTS_CARD_SPEND_VIRTUAL_CARD_LOCKED_TITLE" = "Your virtual card is locked";
+"PAYMENTS_CHAT_SUPPORT_DEFAULT_TITLE" = "New Conversation";
+"PAYMENTS_CHAT_SUPPORT_NEW_CONVERSATION_ACTION" = "New Conversation";
+"PAYMENTS_CHAT_SUPPORT_PLACEHOLDER" = "Message";
+"PAYMENTS_CHAT_SUPPORT_TITLE" = "Support";
+"PAYMENTS_CHAT_SUPPORT_TYPING" = "Thinking…";
+"PAYMENTS_CONSENT_DISCLAIMER_FORMAT" = "By clicking “%1$@”, you agree to the new %2$@.";
+"PAYMENTS_COPY_CARD_NUMBER_ACTION" = "Copy number";
+"PAYMENTS_CREATE_ISSUED_CHECK_FACT_EXPIRE_SUBTITLE" = "Money will be returned to you if they expire.";
+"PAYMENTS_CREATE_ISSUED_CHECK_FACT_EXPIRE_TITLE" = "Checks expire in 30 days";
+"PAYMENTS_CREATE_ISSUED_CHECK_FACT_MAILED_SUBTITLE" = "Just enter the recipient’s info and address.";
+"PAYMENTS_CREATE_ISSUED_CHECK_FACT_MAILED_TITLE" = "We will mail it on your behalf";
+"PAYMENTS_CREATE_ISSUED_CHECK_SUBTITLE" = "Please be safe and check the information below before continuing";
+"PAYMENTS_CREATE_ISSUED_CHECK_TITLE" = "Mail a check";
+"PAYMENTS_CREATE_TRANSFER_LINK_TITLE" = "Create a Payment Link";
+"PAYMENTS_CREATE_WIRE_FACT_DETAILS_SUBTITLE" = "Wire transfers will fail if information is entered incorrectly.";
+"PAYMENTS_CREATE_WIRE_FACT_DETAILS_TITLE" = "Enter details once, check them twice";
+"PAYMENTS_CREATE_WIRE_FACT_IRREVERSIBLE_SUBTITLE" = "Once they are sent, they cannot be returned.";
+"PAYMENTS_CREATE_WIRE_FACT_IRREVERSIBLE_TITLE" = "Wire transfers are irreversible";
+"PAYMENTS_CREATE_WIRE_FACT_SCAMS_SUBTITLE" = "Make sure you know who you’re sending money to.";
+"PAYMENTS_CREATE_WIRE_FACT_SCAMS_TITLE" = "Watch out for scams";
+"PAYMENTS_CREATE_WIRE_SUBTITLE" = "Please be safe and check the information below before continuing.";
+"PAYMENTS_CUSTOMIZE_CARD_SUBTITLE" = "You can pick the name you prefer to use, and choose to print your Twitter username.";
+"PAYMENTS_CUSTOMIZE_CARD_TITLE" = "Customize your card";
+"PAYMENTS_DIRECT_DEPOSIT_ACTION" = "Direct Deposit";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_ADVANCED_PAYCHECK_SUBTITLE" = "Get paid up to two days earlier than many other banks";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_ADVANCED_PAYCHECK_TITLE" = "Early Deposit";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_AUTOMATED_SUBTITLE" = "Twitter uses Pinwheel to update your payroll provider seamlessly";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_AUTOMATED_TITLE" = "Automated";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_DISCLAIMER" = "By selecting “Continue” you acknowledge you have reviewed and agree to Pinwheel’s Terms of Service & Privacy Policy.";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_DISCLAIMER_PRIVACY_POLICY_LINK" = "Privacy Policy";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_DISCLAIMER_TERMS_OF_SERVICE_LINK" = "Terms of Service";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_EARN_APY_SUBTITLE" = "Earn interest on your paycheck as soon as it hits Twitter";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_EARN_APY_TITLE" = "High Yield";
+"PAYMENTS_DIRECT_DEPOSIT_SWITCH_SUCCESS_TOAST" = "You’ve setup your Direct Deposit successfully.";
+"PAYMENTS_EXTERNAL_CONTACTS_ADD_BANK_ACCOUNT_ACTION" = "Add bank account";
+"PAYMENTS_EXTERNAL_CONTACTS_ATTRIBUTE_ADDRESS" = "Address";
+"PAYMENTS_EXTERNAL_CONTACTS_ATTRIBUTE_NAME" = "Name";
+"PAYMENTS_EXTERNAL_CONTACTS_ATTRIBUTE_NICKNAME" = "Nickname";
+"PAYMENTS_EXTERNAL_CONTACTS_CREATE_ACTION" = "Add a new contact";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_ACCOUNT_NUMBER_TITLE" = "What is %@’s bank account number?";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_ADDRESS_SUBTITLE" = "This will be matched against banking records, so make sure it’s accurate.";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_ADDRESS_TITLE" = "What is %@’s address?";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_BANK_ERROR_GENERIC" = "Unable to verify this routing number";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_BANK_ERROR_NOT_FOUND" = "Bank not found";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_BANK_SUBTITLE" = "This 9 digits number corresponds to their bank. This is not their account number.";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_BANK_TITLE" = "What is %@’s bank routing number?";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_INSTITUTION_NAME_TITLE" = "What is the institution name?";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_NAME_SUBTITLE" = "This needs to be their real name, as it will be used to send transfers and checks.";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_NAME_SUBTITLE_CHECKS" = "Who would you like to receive the check?";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_NAME_SUBTITLE_WIRES" = "Who would you like to receive the wire transfer?";
+"PAYMENTS_EXTERNAL_CONTACTS_STEP_NAME_TITLE" = "What is the contact full name?";
+"PAYMENTS_EXTERNAL_CONTACTS_TITLE" = "Contacts";
+"PAYMENTS_EXTERNAL_CONTACTS_TYPE_INDIVIDUAL_SUBTITLE" = "Yourself or someone else";
+"PAYMENTS_EXTERNAL_CONTACTS_TYPE_INDIVIDUAL_TITLE" = "Individual";
+"PAYMENTS_EXTERNAL_CONTACTS_TYPE_INSTITUTION_SUBTITLE" = "Business, charity, or other entity";
+"PAYMENTS_EXTERNAL_CONTACTS_TYPE_INSTITUTION_TITLE" = "Institution";
+"PAYMENTS_EXTERNAL_CONTACTS_TYPE_SELECTION_TITLE" = "Who’s your contact?";
+"PAYMENTS_EXTERNAL_CONTACTS_UPDATE_BANK_ACCOUNT_ACTION" = "Update bank account";
+"PAYMENTS_EXTERNAL_TRANSACTION_NO_PAYMENT_METHOD_BANK_ACCOUNT_TITLE" = "No bank account yet";
+"PAYMENTS_EXTERNAL_TRANSACTION_NO_PAYMENT_METHOD_CARD_TITLE" = "No debit card yet";
+"PAYMENTS_GEOLOCATION_UNAVAILABLE_TOAST" = "Your location services are not currently enabled on this device. You can turn them on in your device settings.";
+"PAYMENTS_HELP_OPTION_ACCOUNT_ACCESS" = "Account Access";
+"PAYMENTS_IDENTITY_VERIFIED_TOAST" = "Your identity is now verified.";
+"PAYMENTS_INLINE_COPIED" = "Copied!";
+"PAYMENTS_INTEREST_PENDING_KYC" = "Interest accrued";
+"PAYMENTS_ISSUED_CHECK_CONFIRM_SUBTITLE" = "Please ensure information is entered correctly, and that you trust the recipient.";
+"PAYMENTS_ISSUED_CHECK_CONFIRM_TITLE" = "Confirm everything looks right";
+"PAYMENTS_ISSUED_CHECK_ERROR_TITLE" = "Mailed check failed";
+"PAYMENTS_ISSUED_CHECK_MEMO_DISCLAIMER" = "Memo will appear on the check";
+"PAYMENTS_ISSUED_CHECK_OPTIONAL_MEMO" = "Optional memo";
+"PAYMENTS_ISSUED_CHECK_RECIPIENT_SECTION" = "Recipient";
+"PAYMENTS_ISSUED_CHECK_RECIPIENT_TITLE" = "Choose a recipient";
+"PAYMENTS_ISSUED_CHECK_SUCCESS_TITLE" = "Your %@ mailed check was successfully scheduled";
+"PAYMENTS_KNOWN_DEVICES_DEVICE_LABEL_TITLE" = "Device";
+"PAYMENTS_KNOWN_DEVICES_VERIFY_BLOCK_DEVICE_ACTION" = "Block Device";
+"PAYMENTS_KNOWN_DEVICES_VERIFY_CONFIRM_ACTION" = "Yes, it’s me";
+"PAYMENTS_KNOWN_DEVICES_VERIFY_SUBTITLE" = "We don’t recognize a device that’s attempting to log in.";
+"PAYMENTS_KNOWN_DEVICES_VERIFY_TITLE" = "Are you trying to access Money?";
+"PAYMENTS_LIMITS_ATM_TITLE" = "ATM";
+"PAYMENTS_LIMITS_BANK_ACCOUNTS_TITLE" = "Bank Accounts";
+"PAYMENTS_LIMITS_BANK_CARDS_TITLE" = "Bank Cards";
+"PAYMENTS_LIMITS_CASH_TITLE" = "Cash";
+"PAYMENTS_LIMITS_CHECKS_TITLE" = "Checks";
+"PAYMENTS_LIMITS_DAILY_TAB" = "Daily";
+"PAYMENTS_LIMITS_MONTHLY_TAB" = "Monthly";
+"PAYMENTS_LIMITS_WIRES_TITLE" = "Wires";
+"PAYMENTS_LIMITS_WITH_USED_FORMAT" = "%1$@ (%2$@ used)";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_DAILY_MAX_UNKNOWN_VALUE_MESSAGE" = "Please retry tomorrow.";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_DAILY_MAX_VALUE_MESSAGE" = "You have already used your %1$@ daily limit. Please retry tomorrow.";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_DAILY_TITLE" = "This action would exceed your daily limit";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_DAILY_USED_VS_MAX_VALUE_MESSAGE" = "You have already used %1$@ out of your %2$@ daily limit. Please try again with a lower amount or retry tomorrow.";
+"PAYMENTS_MAILING_ADDRESS_CORRECTED_ORIGINAL_SECTION" = "What you entered";
+"PAYMENTS_MAILING_ADDRESS_CORRECTED_RECOMMENDED_SECTION" = "Recommended";
+"PAYMENTS_MAILING_ADDRESS_CORRECTED_SUBTITLE" = "Review the recommended changes";
+"PAYMENTS_MAILING_ADDRESS_CORRECTED_TITLE" = "Where should we ship your card?";
+"PAYMENTS_MAILING_ADDRESS_ERROR_INVALID" = "We are unable to validate this address.";
+"PAYMENTS_MAILING_ADDRESS_ERROR_MISSING_SUBPREMISE" = "Please provide an Apartment, Suite, etc.";
+"PAYMENTS_MORE_MENU_DISPUTE_CHARGE" = "Dispute charge";
+"PAYMENTS_MORE_MENU_ORIGINAL_PURCHASE" = "Original purchase";
+"PAYMENTS_NAME_MISMATCH_ERROR_ACCOUNT_LINKING_MESSAGE" = "Please try a different account.";
+"PAYMENTS_NAME_MISMATCH_ERROR_ACCOUNT_LINKING_TITLE" = "This bank account can’t be linked due to a name mismatch";
+"PAYMENTS_NO_CARD_DESIGN_SUBTITLE" = "Please try again later and follow us on Twitter Money to stay up-to-date.";
+"PAYMENTS_NO_CARD_DESIGN_TITLE" = "We’re not issuing any additional cards at the moment.";
+"PAYMENTS_OFFBOARD_CONFIRM_CANCEL_ACTION" = "Go Back";
+"PAYMENTS_OFFBOARD_CONFIRM_CONTINUE_ACTION" = "Continue to Close Account";
+"PAYMENTS_OFFBOARD_CONFIRM_MESSAGE_FORMAT" = "Closing your account means you won’t be able to send or receive payments, and your debit card will be canceled. You’ll still have access to your transaction history. If you change your mind, you can reopen your account within %@ days.";
+"PAYMENTS_OFFBOARD_CONFIRM_TITLE" = "Are you sure you want to close your account?";
+"PAYMENTS_OFFBOARD_PAYMENT_METHOD_PICKER_TITLE" = "Where would you like us to send any future account funds?";
+"PAYMENTS_OFFBOARD_PENDING_MESSAGE_FORMAT" = "If you change your mind, you’ll be able to reopen your account within %@ days. Any remaining funds in your account would be transferred to the account of your choice post that.";
+"PAYMENTS_OFFBOARD_PENDING_TITLE" = "We have begun the process of closing your account";
+"PAYMENTS_ONBOARDING_ADDRESS_SUBTITLE_WITH_BILLING" = "Make sure this address is current and matches your government-issued I.D. This will be used as your billing address.";
+"PAYMENTS_ONBOARDING_DISCLAIMER_ECBSV" = "By pressing %@, you are signing the eCBSV Agreement to disclose your SSN Verification to Twitter Payments, LLC and Socure Inc. You agree that your e-signature has the same legal validity as a handwritten signature.";
+"PAYMENTS_ONBOARDING_DISCLAIMER_ECBSV_LINK" = "eCBSV Agreement";
+"PAYMENTS_PAYMENT_METHOD_ATTRIBUTE_DEPOSIT_MODES" = "Deposit modes";
+"PAYMENTS_PAYMENT_METHOD_ATTRIBUTE_LAST_USED_AT" = "Last used";
+"PAYMENTS_PAYMENT_METHOD_ATTRIBUTE_VALUE_NO_MODES" = "None";
+"PAYMENTS_PAYMENT_METHOD_ATTRIBUTE_WITHDRAW_MODES" = "Withdraw modes";
+"PAYMENTS_PAYMENT_METHOD_INCOMPATIBLE_BANK_ACCOUNT_TITLE" = "This bank account is not compatible with this type of operation.";
+"PAYMENTS_PAYMENT_METHOD_INCOMPATIBLE_CARD_TITLE" = "This card is not compatible with this type of operation";
+"PAYMENTS_PAYMENT_METHOD_INCOMPATIBLE_SUBTITLE" = "Please try using another one.";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADDITIONAL_ADD_NEW_SUBTITLE" = "Once we know it’s you, you’ll be prompted to create a new one";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADDITIONAL_ADD_NEW_TITLE" = "Add a new credential";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADDITIONAL_ALTERNATIVE_SUBTITLE" = "If you can’t access your existing credential, you can verify your identity instead";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADDITIONAL_ALTERNATIVE_TITLE" = "Alternative solution";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADDITIONAL_AUTHENTICATE_SUBTITLE" = "This is to ensure the safety of your account";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADDITIONAL_AUTHENTICATE_TITLE" = "Authenticate with your existing credential";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADD_PASSKEY_ACTION" = "Add a Passkey";
+"PAYMENTS_PUBKEY_CREDENTIAL_ADD_SECURITY_KEY_ACTION" = "Add a security Key";
+"PAYMENTS_PUBKEY_CREDENTIAL_AUTHENTICATION_FAILED_SUBTITLE" = "Please try again, or use an option to recover your access.";
+"PAYMENTS_PUBKEY_CREDENTIAL_AUTHENTICATION_FAILED_TITLE" = "Authentication failed";
+"PAYMENTS_PUBKEY_CREDENTIAL_BENEFIT_DEVICE_SECURITY_SUBTITLE" = "Your device’s biometrics stop hackers.";
+"PAYMENTS_PUBKEY_CREDENTIAL_BENEFIT_DEVICE_SECURITY_TITLE" = "Bulletproof Device Security";
+"PAYMENTS_PUBKEY_CREDENTIAL_BENEFIT_INSTANT_ACCESS_SUBTITLE" = "Use Face ID or tap to unlock Twitter Money.";
+"PAYMENTS_PUBKEY_CREDENTIAL_BENEFIT_INSTANT_ACCESS_TITLE" = "Instant Access";
+"PAYMENTS_PUBKEY_CREDENTIAL_BENEFIT_SYNCED_ANYWHERE_SUBTITLE" = "Access Twitter Money on any device, securely.";
+"PAYMENTS_PUBKEY_CREDENTIAL_BENEFIT_SYNCED_ANYWHERE_TITLE" = "Synced Anywhere";
+"PAYMENTS_PUBKEY_CREDENTIAL_BENEFIT_TITLE" = "Keep your Twitter Money secure";
+"PAYMENTS_PUBKEY_CREDENTIAL_DELETE_ACTION" = "Remove";
+"PAYMENTS_PUBKEY_CREDENTIAL_DETAILS_CREATED_AT_TITLE" = "Created";
+"PAYMENTS_PUBKEY_CREDENTIAL_DETAILS_LAST_USED_AT_TITLE" = "Last used";
+"PAYMENTS_PUBKEY_CREDENTIAL_DETAILS_TYPE_TITLE" = "Type";
+"PAYMENTS_PUBKEY_CREDENTIAL_LAST_USED_ON_FORMAT" = "Last used on %@";
+"PAYMENTS_PUBKEY_CREDENTIAL_NAME_FORMAT" = "%@’s Twitter Money";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVERY_ADD_NEW_SUBTITLE" = "Once you’ve been verified, you’ll be prompted to create a new credential";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVERY_ADD_NEW_TITLE" = "Add a new credential";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVERY_CLEANUP_SUBTITLE" = "If you lost your credential for good, you can remove them in the Settings";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVERY_CLEANUP_TITLE" = "Cleanup";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVERY_TITLE" = "Recover your access to Twitter Money";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVERY_VERIFY_IDENTITY_SUBTITLE" = "We need to make sure it’s really you";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVERY_VERIFY_IDENTITY_TITLE" = "Verify your identity";
+"PAYMENTS_PUBKEY_CREDENTIAL_RECOVER_ACCESS_ACTION" = "I can’t access my credential";
+"PAYMENTS_PUBKEY_CREDENTIAL_SECTION_PASSKEYS" = "Passkeys";
+"PAYMENTS_PUBKEY_CREDENTIAL_SECTION_SECURITY_KEYS" = "Security Keys";
+"PAYMENTS_PUBKEY_CREDENTIAL_SETTINGS_TITLE" = "Credentials";
+"PAYMENTS_PUBKEY_CREDENTIAL_TYPE_PASSKEY" = "Passkey";
+"PAYMENTS_PUBKEY_CREDENTIAL_TYPE_SECURITY_KEY" = "Security Key";
+"PAYMENTS_PUBKEY_CREDENTIAL_USE_PIN_INSTEAD_ACTION" = "Use a 4-digit PIN instead";
+"PAYMENTS_RAIL_CASH" = "Cash";
+"PAYMENTS_RAIL_CHECK" = "Check";
+"PAYMENTS_REMOVE_CONTACT_ACTION" = "Remove this contact";
+"PAYMENTS_REPLACE_VIRTUAL_CARD_CONFIRM_SUBTITLE" = "We’ll deactivate your current card, and create a new virtual card for you to use for online purchases.";
+"PAYMENTS_REPLACE_VIRTUAL_CARD_CONFIRM_TITLE" = "Replace your card";
+"PAYMENTS_SETTINGS_ACCEPTABLE_USE_POLICY_LINK" = "Acceptable Use Policy";
+"PAYMENTS_SETTINGS_ACCOUNT_ACCESS" = "Account Access";
+"PAYMENTS_SETTINGS_OFFBOARD" = "Close Account";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_BANK_ACCOUNT_SUCCESS" = "Your bank account is now linked to Twitter Money";
+"PAYMENTS_SETTINGS_POLICIES_AND_TERMS" = "Policies and Terms";
+"PAYMENTS_SETTINGS_PRIVACY_POLICY" = "Privacy Policy";
+"PAYMENTS_SETTINGS_SUPPORT" = "Support";
+"PAYMENTS_TAB_ACCOUNT" = "Account";
+"PAYMENTS_TOAST_COPIED" = "“%@” copied to clipboard";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_ATM_FEE" = "ATM Network Fee";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_REQUESTED_CASHBACK" = "Cash Requested";
+"PAYMENTS_TRANSACTION_DISPUTE_STATUS_CREDIT" = "Refund from dispute";
+"PAYMENTS_TRANSACTION_DISPUTE_STATUS_PENDING" = "Dispute Pending";
+"PAYMENTS_TRANSACTION_DISPUTE_STATUS_REVERSE" = "Reversed dispute refund";
+"PAYMENTS_TRANSACTION_DISPUTE_STATUS_SETTLED" = "Disputed";
+"PAYMENTS_TRANSACTION_FAILED_OFAC_CHECK_MESSAGE" = "Failed due to compliance reasons";
+"PAYMENTS_TRANSACTION_INCORRECT_CARD_ADDRESS_LINE_ONE_MESSAGE" = "Declined due to incorrect billing address";
+"PAYMENTS_TRANSACTION_INCORRECT_CARD_CVC_MESSAGE" = "Declined due to incorrect card security code";
+"PAYMENTS_TRANSACTION_INCORRECT_CARD_EXP_DATE_MESSAGE" = "Declined due to incorrect card expiration date";
+"PAYMENTS_TRANSACTION_INCORRECT_CARD_PIN_MESSAGE" = "Declined due to incorrect card PIN";
+"PAYMENTS_TRANSACTION_INCORRECT_CARD_POSTAL_CODE_MESSAGE" = "Declined due to incorrect postal code";
+"PAYMENTS_TRANSACTION_INCORRECT_CARD_TOO_FAR_BARCODE_MESSAGE" = "Declined due to location mismatch";
+"PAYMENTS_TRANSACTION_TYPE_FEES_REIMBURSEMENT" = "Fees Reimbursement";
+"PAYMENTS_TRANSACTION_TYPE_REVERSED_FEES_REIMBURSEMENT" = "Reversed Fees Reimbursement";
+"PAYMENTS_TRANSACTION_TYPE_TRANSFER_LINK" = "Payment Link";
+"PAYMENTS_TRANSFER_SUCCESS_PENDING_RECIPIENT_SUBTITLE" = "They’re not using this feature yet. If they do not accept your payment within 14 days, the transfer will be cancelled and funds will be returned to your balance.";
+"PAYMENTS_TRANSFER_SUCCESS_PENDING_REVIEW_SUBTITLE" = "We’re currently reviewing your payment, and will issue the funds promptly.";
+"PAYMENTS_VIEW_CHECK_METADATA_ACTION" = "Check information";
+"PAYMENTS_WIRE_BENEFICIARY_TITLE" = "Choose a beneficiary";
+"PAYMENTS_WIRE_INTERMEDIARY_SECTION" = "Intermediary";
+"PAYMENTS_WIRE_MEMO_FIELD" = "Memo";
+"PAYMENTS_WIRE_MEMO_REQUIRED" = "Memo is required";
+"ATTACHMENT_PICKER_PHOTOS_PICKER_TITLE" = "Recents";
+"AV_CHAT_ERROR_AUDIO_SESSION" = "Could not activate audio session on this device right now";
+"NOTIFICATIONS_PERMISSION_REQUEST_BACK_BUTTON_ACCESSIBILITY_HINT" = "Returns to previous screen";
+"NOTIFICATIONS_PERMISSION_REQUEST_ENABLE_BUTTON" = "Enable Notifications";
+"NOTIFICATIONS_PERMISSION_REQUEST_ENABLE_BUTTON_ACCESSIBILITY_HINT" = "Enable all notifications";
+"NOTIFICATIONS_PERMISSION_REQUEST_ICON_ACCESSIBILITY_LABEL" = "Notification icon with badge";
+"NOTIFICATIONS_PERMISSION_REQUEST_ONLY_IMPORTANT_BUTTON" = "Only Important Notifications";
+"NOTIFICATIONS_PERMISSION_REQUEST_ONLY_IMPORTANT_BUTTON_ACCESSIBILITY_HINT" = "Enable only important notifications";
+"NOTIFICATIONS_PERMISSION_REQUEST_SUBTITLE" = "Get notified for when your Tweets go viral and new messages & follows";
+"NOTIFICATIONS_PERMISSION_REQUEST_TITLE" = "Never miss a moment";
+"PUSH_NOTIFICATIONS_REENGAGEMENT_BANNER_DESCRIPTION_LABEL" = "Get notified when you receive a message, new follow, or trending Tweets on Twitter.";
+"PUSH_NOTIFICATIONS_REENGAGEMENT_BANNER_TITLE_LABEL" = "Notifications Disabled";
+"SCREENSHOT_SHARE_SHEET_HIDE_REMINDER" = "Hide share reminder";
+"SCREENSHOT_SHARE_SHEET_TITLE" = "Share your screenshot";
+"SHARE_SHEET_INVITE_SUCCESS_TOAST_TITLE" = "Invite sent to %@";
+"SHARE_TO_OFF_PLATFORM_INSTAGRAM_DIRECT_ACTIVITY_CAROUSEL_LABEL" = "Instagram Direct";
+"SHARE_TO_OFF_PLATFORM_INSTAGRAM_STORIES_ACTIVITY_CAROUSEL_LABEL_SHORT" = "Stories";
+"SHARE_TO_SNAP_FOOTER_LINK_LABEL" = "Open Tweet on Twitter";
+"SHORTCUT_GROK_TITLE" = "Ask Grok";
+"TIMELINE_SORT_REPLIES_BY_LIKES_SHORT_LABEL" = "Likes";
+"TIMELINE_SORT_REPLIES_BY_RECENTS_SHORT_LABEL" = "Recent";
+"TIMELINE_SORT_REPLIES_BY_RELEVANT_SHORT_LABEL" = "Relevant";
+"TIMELINE_SORT_SHEET_LIKES_TITLE" = "Sort likes";
+"TIMELINE_SORT_SHEET_QUOTES_TITLE" = "Sort quotes";
+"TIMELINE_SORT_SHEET_REPOSTS_TITLE" = "Sort retweets";
+"TRANSLATION_BUTTON_TITLE" = "Show translation";
+"XCHAT_RESET_PIN_ERROR_MESSAGE" = "In order to reset passcode, you must have access to your inbox on this device.";
+"XCHAT_RESET_PIN_ERROR_TITLE" = "Cannot reset passcode";
+"UNIFIED_CARDS_REMINDER_BUTTON_TITLE" = "Remind me";
+"UNIFIED_CARDS_REMINDER_BUTTON_TITLE_ENABLED" = "Reminder set";
+"UNIFIED_CARDS_REMINDER_TITLE_2" = "Get notified on %@";
+"UNIFIED_CARDS_REMINDER_TITLE_STARTED" = "This event has already started";
+"UNIFIED_CARDS_REMINDER_TITLE_SUBSCRIBED_2" = "You’ll get a reminder when the event begins";
+"UNIFIED_CARDS_REMINDER_TOAST_SUBTITLE" = "You’ll get a reminder when the event begins";
+"UNIFIED_CARDS_REMINDER_TOAST_TITLE" = "Event reminder";
+"QUICK_PROMOTE_LOCATION_GLOBAL_LABEL" = "Global";
+"QUICK_PROMOTE_SEARCH_LOCATION_GLOBAL_BUTTON" = "Boost Global";
+"QUICK_PROMOTE_SEARCH_LOCATION_GLOBAL_MESSAGE" = "Search for a location or boost your Tweet globally";
+"UC_COLLECTION_FROM_SUBTITLE" = "From %@";
+"TIMELINE_INLINE_UPSELL_ACTION_BUTTON_TITLE" = "Show more";
+"TIMELINE_INLINE_UPSELL_SUBTITLE" = "View Tweets recommended for you";
+"TIMELINE_INLINE_UPSELL_TITLE" = "You’re caught up";
+
+
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_SUBTITLE" = "Your account meets our minimum application requirements for Super Follows.";
+"IDENTITY_VERIFICATION_INTRO_TERMS_CREATOR_SUBSCRIPTION" = "Creator Super Follow";
+"SUBSCRIPTION_PREMIUM_HIDE_SUBSCRIPTIONS_SETTING_DETAIL" = "Your list of Super Followers on your profile will only be visible to you.";
+"USER_CREATOR_SUBSCRIPTIONS_LABEL" = "Super Followers";
+"USER_CREATOR_SUBSCRIPTIONS_LIST_EMPTY_SUBTITLE_OWN_PROFILE" = "You will find a list of all your Super Followers here.";
+"USER_CREATOR_SUBSCRIPTIONS_LIST_EMPTY_TITLE_OWN_PROFILE" = "You don’t have any Super Followers yet";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_AGE_CONFIRMATION_MESSAGE" = "You must be at least 18 years old to apply for Super Follows. Confirm you’re 18 or older to continue.";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_PAGE_CONFIRM_MESSAGE" = "Double-check and confirm your Super Follow price. You won’t be able to change this after you submit.";
+"CREATOR_SUPER_FOLLOWS_ONBOARDING_SF_SECTION_2_TITLE" = "Super Follow perks";
+"CREATOR_SUPER_FOLLOWS_ONBOARDING_SF_SECTION_4_SUBTITLE" = "We’re looking for a small group of people to try Super Follows. Check your eligibility to get started.";
+"CREATOR_TICKETS_APPLICATION_FLOW_STATE_STRIPE_INTEGRATED_SUPER_FOLLOWS_DESCRIPTION" = "We’ve verified your Stripe account and you’re good to go. We’ll send you a notification as soon as Super Follows are enabled on your account.";
+"NO_SUPER_FOLLOW_TWEETS_LABEL_FORMAT" = "%@ hasn’t tweeted any Super Follow content yet";
+"NO_SUPER_FOLLOW_TWEETS_SUBTITLE_FORMAT" = "You can find %@’s Super Follow content here.";
+"NO_SUPER_FOLLOW_TWEETS_SUBTITLE_OWN_PROFILE" = "Go on - start Tweeting that exclusive content. All of your Super Follow Tweets will show up here.";
+
 
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_ACTIVITY_ELIGIBILITY_REQUIREMENT" = "25 posts in the past 30 days";
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGE_CONFIRMATION_MESSAGE" = "You must be at least 18 years old to apply for Subscriptions. Confirm you’re 18 or older to continue.";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGE_CONFIRMATION_MESSAGE" = "You must be at least 18 years old to apply for Super Follows. Confirm you’re 18 or older to continue.";
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGE_CONFIRMATION_TITLE" = "Confirm your age to apply";
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGE_ELIGIBILITY_REQUIREMENT" = "18 years old";
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGREEMENT" = "Subscriptions Terms";
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGREEMENT_HTML_FORMAT" = "<p>By tapping below to apply, you agree to be bound by the <a id=\"TERMS\">Subscriptions Terms</a></p>";
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_FOLLOWERS_ELIGIBILITY_REQUIREMENT" = "10k followers";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGREEMENT" = "Super Follow Terms";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_AGREEMENT_HTML_FORMAT" = "<p>By tapping below to apply, you agree to be bound by the <a id=\"TERMS\">Super Follow Terms</a></p>";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_ACCOUNT_FOLLOWERS_ELIGIBILITY_REQUIREMENT" = "10K followers";
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_APPLY_BUTTON_LABEL" = "Apply";
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_SUBTITLE" = "Your account meets our minimum application requirements for Subscriptions.";
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELIGIBILITY_TITLE" = "Be one of the first to apply";
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_PRE_PROFILE_ELIGIBILITY_BUTTON_LABEL" = "Continue";
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_PRE_PROFILE_ELIGIBILITY_SUBTITLE" = "Complete your profile before submitting your Subscriptions application.";
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_UNELIGIBILITY_SUBTITLE" = "Here are the minimum application requirements for Subscriptions.";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_PRE_PROFILE_ELIGIBILITY_SUBTITLE" = "Complete your profile before submitting your Super Follow application.";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_UNELIGIBILITY_SUBTITLE" = "Here are the minimum application requirements for Super Follows.";
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_UNELIGIBILITY_TITLE" = "Check back later";
 "CREATOR_TICKETS_APPLICATION_FLOW_PRE_PROFILE_ELIGIBILITY_BUTTON_LABEL" = "Continue";
 "CREATOR_TICKETS_APPLICATION_FLOW_PRE_PROFILE_ELIGIBILITY_SUBTITLE" = "We just need you to update a few things on your profile to start your application.";
@@ -158,9 +739,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "DM_INBOX_PILL_UNENCRYPTED_COUNT_TITLE" = "Unencrypted %@";
 "DM_INBOX_PILL_UNENCRYPTED_TITLE" = "Unencrypted";
 "DM_INBOX_PILL_UNREAD_TITLE" = "Unread";
-"DM_INBOX_SEARCH_BAR_PLACEHOLDER_TEXT" = "Search Direct Messages";
+"DM_INBOX_SEARCH_BAR_PLACEHOLDER_TEXT" = "Find a Chat";
 "DM_INBOX_SEARCH_SECTION_CONVERSATIONS_TITLE" = "Conversations";
-"DM_INBOX_SEARCH_SECTION_MESSAGES_TITLE" = "Messages";
+"DM_INBOX_SEARCH_SECTION_MESSAGES_TITLE" = "Chat";
 "DM_INBOX_TIMESTAMP_HOURS_AGO" = "%@h ago";
 "DM_INBOX_TIMESTAMP_MINUTES_AGO" = "%@m ago";
 "DM_INBOX_TIMESTAMP_NOW" = "Now";
@@ -189,7 +770,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "DM_MESSAGE_ACTION_DELETE_ALERT_DELETE_FOR_ME_ACTION" = "Delete for me";
 "DM_MESSAGE_ACTION_DELETE_ALERT_TITLE" = "Who would you like to delete this message for?";
 "DM_MESSAGE_ACTION_DELETE_TITLE" = "Delete";
-"DM_MESSAGE_ACTION_INFO_TITLE" = "Info";
+"DM_MESSAGE_ACTION_INFO_TITLE" = "Details";
 "DM_MESSAGE_ACTION_SAVE_GIF_TITLE" = "Save GIF";
 "DM_MESSAGE_ACTION_SAVE_PHOTO_TITLE" = "Save photo";
 "DM_MESSAGE_ACTION_SAVE_TITLE" = "Save";
@@ -203,7 +784,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "DM_MESSAGE_DETAILS_EXPIRY_TIME_TITLE" = "Disappears in";
 "DM_MESSAGE_DETAILS_REACTIONS_TITLE" = "Reactions";
 "DM_MESSAGE_DETAILS_SENT_TIME_TITLE" = "Sent";
-"DM_MESSAGE_DETAILS_TITLE" = "Message information";
+"DM_MESSAGE_DETAILS_TITLE" = "Details";
 "DM_MESSAGE_REPLY_HEADER" = "•|•%1$@•|• to %2$@";
 "DM_MESSAGE_REPLY_HEADER_REPLIED_TO" = "Replied to %@";
 "DM_MESSAGE_REPLY_HEADER_REPLIED_TO_YOU" = "Replied to you";
@@ -234,7 +815,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "DM_SETTINGS_NOTIFICATION_SECTION_TITLE" = "Notifications";
 "DM_SETTINGS_SECTION_CLEAR_DATA_ITEM_TOAST_TITLE" = "Local encrypted data was removed";
 "DM_SETTINGS_SECTION_RESET_PIN_ITEM_TITLE" = "Reset passcode";
-"DM_SETTINGS_SECTION_TITLE" = "Encrypted Messages";
+"DM_SETTINGS_SECTION_TITLE" = "Chats";
 "DM_USER_DISPLAY_NAME_UNKNOWN" = "Unknown User";
 "PAYMENTS_ACCEPT_TRANSFER_AMOUNT_ACTION" = "Accept %@";
 "PAYMENTS_ACCOUNT_DETAILS_WIRE_TITLE" = "Receive a wire payment";
@@ -629,14 +1210,14 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_GROUP_TITLE" = "Content shared with group";
 "SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_NAME_TITLE" = "Content shared with %@";
 "SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_TITLE" = "Content shared";
-"TIMELINE_SORT_BY_NEW" = "New";
+"TIMELINE_SORT_BY_NEW" = "Latest";
 "TIMELINE_SORT_BY_POPULAR" = "Popular";
 "TIMELINE_SORT_BY_POPULAR_ALL" = "Popular - all time";
 "TIMELINE_SORT_BY_POPULAR_DAY" = "Popular - today";
 
 "DM_PIN_TOAST_REMINDER_TITLE" = "PIN verification complete";
 "DM_REACTIONS_EMPTY" = "No one has reacted to this message.";
-"DM_SETTINGS_TITLE" = "Messages settings";
+"DM_SETTINGS_TITLE" = "Chat settings";
 "COMMUNITY_SPOTLIGHT_COMMUNITY_DETAIL_ACTION_TITLE" = "Spotlight Community on your profile";
 "COMMUNITY_UNABLE_TO_TWEET_USER_IS_BANNED_MESSAGE" = "Reach out to the Community moderators to be reinstated";
 "COMMUNITY_UNABLE_TO_TWEET_USER_IS_BANNED_TITLE" = "You are removed from this Community";
@@ -656,7 +1237,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "GROK_FULLSCREEN_IMAGE_ACTION_EDIT" = "Edit";
 "GROK_FULLSCREEN_IMAGE_ACTION_POST" = "Tweet";
 "GROK_FULLSCREEN_IMAGE_ACTION_SAVE" = "Save";
-"GROK_HOME_DOWNLOAD_BANNER_ACTION" = "GET";
+"GROK_HOME_DOWNLOAD_BANNER_ACTION" = "Get";
 "GROK_HOME_DOWNLOAD_BANNER_DESCRIPTION" = "Access advanced Grok features";
 "GROK_HOME_DOWNLOAD_BANNER_TITLE" = "Download the iOS app";
 "GROK_IMAGE_ACTION_EDIT" = "Edit Image";
@@ -672,10 +1253,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_TITLE_FALLBACK" = "You’ve reached your current message cap";
 "GROK_SHARE_DEEPSEARCH_MODE_LABEL" = "DeepSearch by Grok";
 "GROK_SHARE_DEEPSEARCH_MODE_POST" = "%d Tweet";
-"GROK_SHARE_DEEPSEARCH_MODE_POSTS" = "%d tweets";
+"GROK_SHARE_DEEPSEARCH_MODE_POSTS" = "%d Tweets";
 "GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULT" = "%d web page";
 "GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULTS" = "%d web pages";
-"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULTS_AND_POSTS" = "%d web pages and tweets";
+"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULTS_AND_POSTS" = "%d web pages and Tweets";
 "GROK_SOCCER_CARD_DISCLAIMER" = "Grok currently supports La Liga and English Premier League data.";
 "GROK_SUMMARY_TITLE_LABEL" = "Grok summary";
 "GROK_UPLOAD_OPTION_CAMERA" = "Camera";
@@ -800,12 +1381,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "SETTINGS_GROK_MEMORY_DETAILS_FORMAT" = "Allow Grok to remember details from your previous conversations. You can delete individual conversations to forget the associated details. %@";
 "SETTINGS_GROK_MEMORY_TITLE" = "Allow Grok to remember your conversation history";
 "SUBSCRIPTION_PREMIUM_X_TEXT" = "Twitter Premium";
-"TWEET_FEEDBACK_NOT_RELEVANT_TOAST" = "Thanks. We will show you less tweets like this";
-"TWEET_FEEDBACK_RELEVANT_TOAST" = "Thanks. We will show you more tweets like this";
+"TWEET_FEEDBACK_NOT_RELEVANT_TOAST" = "Thanks. We will show you less Tweets like this";
+"TWEET_FEEDBACK_RELEVANT_TOAST" = "Thanks. We will show you more Tweets like this";
 "VIDEO_SETTINGS_AIRPLAY_AND_BLUETOOTH" = "Airplay & Bluetooth";
 "SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_TO_DOWNLOAD_UPSELL_SUBTITLE" = "This video can’t be download to your device, but you can save it for offline viewing.";
 "SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_TO_DOWNLOAD_UPSELL_TITLE" = "Save video offline?";
-"SUBSCRIPTION_UPSELL_REPLY_BOOST_MESSAGE" = "Subscribe to Premium to have your Replies boosted";
+"SUBSCRIPTION_UPSELL_REPLY_BOOST_MESSAGE" = "Get Blue to have your Replies boosted";
 "SUBSCRIPTION_UPSELL_REPLY_BOOST_PURCHASE_LABEL" = "Boost My Reply Reach";
 "SUBSCRIPTION_UPSELL_REPLY_BOOST_TITLE" = "Want more people to see your reply?";
 "DM_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION" = "Delete";
@@ -865,13 +1446,13 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER_AND_MANY_OTHERS" = "You, %1$@ & %2$@ others";
 "DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER_AND_ONE_OTHER" = "You, %@ & 1 other";
 "BOOKMARKS_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Bookmarks with Premium";
-"BOOKMARK_FOLDERS_ADD_REMOVE_TO_FOLDER_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Add/Remove from Folder with Premium";
-"BOOKMARK_FOLDERS_ADD_TO_FOLDER_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Add to Folder with Premium";
+"BOOKMARK_FOLDERS_ADD_REMOVE_TO_FOLDER_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Modify Folder with Premium";
+"BOOKMARK_FOLDERS_ADD_TO_FOLDER_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Add to Folder with Blue";
 "BROADCAST_DID_REPOST_MESSAGE" = "%1$@ reposted this stream!";
 "CAMERA_ADD_POST_ACCESSIBILITY_HINT" = "Adds Tweet image to the camera capture";
 "CAMERA_ADD_POST_ACCESSIBILITY_LABEL" = "Add Tweet";
 "COMMUNITY_TWEET_REMOVE_MEMBER_TITLE" = "Ban author from Community";
-"COMMUNITY_TWEET_SEARCH_AUTHOR_POSTS_FORMAT" = "Author’s tweets in this Community";
+"COMMUNITY_TWEET_SEARCH_AUTHOR_POSTS_FORMAT" = "View other Tweets from this user in this Community.";
 "COMPOSE_VIEW_UPLOAD_VIDEO_ACCESSIBILITY_HINT" = "Toggles between the video library and keyboard";
 "COMPOSE_VIEW_UPLOAD_VIDEO_ACCESSIBILITY_LABEL" = "Upload video";
 "DOWNLOAD_GROK_LABEL" = "Download Grok";
@@ -1929,7 +2510,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 
 /** Title of an action which allows users to request a Community Note */
-"BIRDWATCH_REQUEST_ACTION_TITLE" = "Request Community Note";
+"BIRDWATCH_REQUEST_ACTION_TITLE" = "Request a Community Note";
 
 
 /* The list of blocked users is empty, i.e., the current user is not blocking any accounts */
@@ -1950,7 +2531,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 
 /* Bookmarks search placeholder */
-"BOOKMARK_SEARCH_PLACEHOLDER" = "Find a bookmark";
+"BOOKMARK_SEARCH_PLACEHOLDER" = "Find a Bookmark";
 
 
 /* Text above live chat message for reply, %1$@ - username, %2$@ - message text*/
@@ -2043,11 +2624,11 @@ This text is the title for the button that shows your current conversation contr
 "CONVERSATION_CONTROL_CHANGE_VERIFIED_PICKER" = "Verified accounts";
 
 /* Conversation Control refers to the feature that allows users to restrict who can reply to a particular Tweet.
- This is the label for the one-time tooltip pointing at the Tweet caret menu and also is the label for the caret menu action item that allows users to change the conversation control setting after tweeting. */
+ This is the label for the one-time tooltip pointing at the Tweet caret menu and also is the label for the caret menu action item that allows users to change the conversation control setting after Tweeting. */
 
 
 /* Conversation Control refers to the feature that allows users to restrict who can reply to a particular Tweet. */
-"CONVERSATION_CONTROL_CHANGE_YOUR_SUBSCRIBERS_PICKER" = "Your Subscribers";
+"CONVERSATION_CONTROL_CHANGE_YOUR_SUBSCRIBERS_PICKER" = "Your Super Followers";
 
 /* Conversation Control refers to the feature that allows users to restrict who can reply to a particular Tweet.
 
@@ -2628,10 +3209,10 @@ This text gives the short description for a type of conversation in which only a
 "PROFILE_EXPANDED_BIO_BUTTON_LABEL" = "View more";
 
 /* Label used when editing expanded bio in settings */
-"PROFILE_EXPANDED_BIO_SETTINGS_EDIT_LABEL" = "Edit expanded bio";
+"PROFILE_EXPANDED_BIO_SETTINGS_EDIT_LABEL" = "Expanded bio";
 
 /* Title used in header of expanded bio edit screen */
-"PROFILE_EXPANDED_BIO_TITLE" = "Expanded Bio";
+"PROFILE_EXPANDED_BIO_TITLE" = "Expanded bio";
 
 
 /* 
@@ -2971,7 +3552,7 @@ This text gives the short description for a type of conversation in which only a
 "SUBSCRIPTION_PREMIUM_TEXT" = "Blue";
 
 /* Blue product name to be used in upsells */
-"SUBSCRIPTION_PREMIUM_UPGRADE_TEXT" = "Upgrade";
+"SUBSCRIPTION_PREMIUM_UPGRADE_TEXT" = "Get Blue";
 
 /* Blue product name to be used in upsells that promotes Grok 2 */
 "SUBSCRIPTION_PREMIUM_UPSELL_GROK" = "Grok";
@@ -3018,7 +3599,7 @@ This text gives the short description for a type of conversation in which only a
 
 
 /* Text for Blue upgrade button */
-"SUBSCRIPTION_UPGRADE_BUTTON_TEXT" = "Upgrade to Blue";
+"SUBSCRIPTION_UPGRADE_BUTTON_TEXT" = "Get Blue";
 
 
 /* A description text appears in the subscription management view to explain that their subscription is expiring soon */
@@ -3088,7 +3669,7 @@ This text gives the short description for a type of conversation in which only a
 
 
 /* Empty state title of the Articles tab on the user profile for users that are not verified. */
-"USER_PROFILE_ARTICLES_EMPTY_STATE_BUTTON_NONVERIFIED" = "Subscribe to Blue";
+"USER_PROFILE_ARTICLES_EMPTY_STATE_BUTTON_NONVERIFIED" = "Get Blue";
 
 /* Empty state subtitle of the Articles tab on the user profile. */
 "USER_PROFILE_ARTICLES_EMPTY_STATE_SUBTITLE" = "When you publish an article on x.com, it will show up here.";
@@ -3107,7 +3688,7 @@ This text gives the short description for a type of conversation in which only a
 
 
 /* Action label on a Tweet in order to add or remove from Highlights tab on user profile */
-"USER_PROFILE_HIGHLIGHTS_ACTION_LABEL" = "Add/remove from Highlights";
+"USER_PROFILE_HIGHLIGHTS_ACTION_LABEL" = "Modify Highlights";
 
 /* Alert message to confirm to add a Tweet to Highlights tab on user profile */
 "USER_PROFILE_HIGHLIGHTS_ALERT_MESSAGE_ADD" = "This Tweet would be featured in the Highlights tab on your profile.";
@@ -3128,10 +3709,10 @@ This text gives the short description for a type of conversation in which only a
 "USER_PROFILE_HIGHLIGHTS_BUTTON_TITLE_REMOVE" = "Remove";
 
 /* Empty state title of the Highlights tab on the user profile for users that are not verified. */
-"USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_BUTTON_NONVERIFIED" = "Subscribe to Blue";
+"USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_BUTTON_NONVERIFIED" = "Get Blue";
 
 /* Empty state subtitle of the Highlights tab on the user profile. */
-"USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_SUBTITLE" = "To add Highlights to your profile:\n\n 1. Find any Tweet you created\n 2. Tap the “…“ menu button\n 3. Tap “Add/remove from Highlights“";
+"USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_SUBTITLE" = "To add Highlights to your profile:\n\n 1. Find any Tweet you created\n 2. Tap the “…“ menu button\n 3. Tap “Modify Highlights“";
 
 /* Empty state subtitle of the Highlights tab on the user profile for users that are not verified. */
 "USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_SUBTITLE_NONVERIFIED" = "You must be subscribed to Blue to highlight Tweets on your profile.";
@@ -3173,7 +3754,7 @@ This text gives the short description for a type of conversation in which only a
 
 
 /* Message (content) of the video download onboarding */
-"VIDEO_DOWNLOAD_ONBOARDING_MESSAGE" = "Go offline, or go remix! Subscribers now have the power to download and reimagine your content. If you’d rather your videos weren’t downloadable, tap “Edit” on your video. Your content, your rules.";
+"VIDEO_DOWNLOAD_ONBOARDING_MESSAGE" = "Go offline, or go remix! Super Followers now have the power to download and reimagine your content. If you’d rather your videos weren’t downloadable, tap “Edit” on your video. Your content, your rules.";
 
 /* Title of the video download onboarding */
 "VIDEO_DOWNLOAD_ONBOARDING_TITLE" = "Introducing Downloadable Videos";
@@ -3381,16 +3962,16 @@ This text gives the short description for a type of conversation in which only a
 "SUBSCRIPTION_UNLOCK_FEATURE" = "Unlock %1$@ with %2$@";
 
 /* Detail text for feature upsell, %1$@ will be replace to a tier name, %2$@  will be replaced to a feature name. ex "Only Blue subscribers have access to Highlights. Upgrade to continue." */
-"SUBSCRIPTION_UNLOCK_FEATURE_DETAILS" = "Only %1$@ subscribers have access to %2$@. Upgrade to continue.";
+"SUBSCRIPTION_UNLOCK_FEATURE_DETAILS" = "Only %1$@ subscribers have access to %2$@. Get Blue to continue.";
 
 /* Feature upsell button title */
-"SUBSCRIPTION_UPGRADE_TO_TIER" = "Upgrade";
+"SUBSCRIPTION_UPGRADE_TO_TIER" = "Get Blue";
 
 /* Text for the header of the Subscription upsell for SMS two-factor authentication feature name */
 "SUBSCRIPTION_UPSELL_2FA_FEATURE_NAME" = "SMS two-factor authentication";
 
 /* Text for subscription upsell text for long video hd uploads */
-"SUBSCRIPTION_UPSELL_ACTION_LONG_VIDEO_UPLOAD" = "Subscribe to Blue Basic to Tweet longer videos.";
+"SUBSCRIPTION_UPSELL_ACTION_LONG_VIDEO_UPLOAD" = "Get Blue Basic to Tweet longer videos.";
 
 /* Text for subscription upsell text for full hd uploads */
 "SUBSCRIPTION_UPSELL_ACTION_TEXT_FULL_HD_UPLOAD" = "Upload with Blue Basic";
@@ -3893,7 +4474,7 @@ This text gives the short description for a type of conversation in which only a
 "DM_REACTIONS_REMOVE_REACTION_ACCESSIBILITY_HINT" = "Removes reaction";
 
 /* Direct Message Emoji picker search emojis placeholder */
-"DM_REACTIONS_SEARCH_PLACEHOLDER" = "Search emojis";
+"DM_REACTIONS_SEARCH_PLACEHOLDER" = "Find an Emoji";
 
 /* Send message hint on text entry. */
 "DM_SEND_MESSAGE_ENTRY_HINT" = "Send Message";
@@ -4344,7 +4925,7 @@ This text gives the short description for a type of conversation in which only a
 "DIRECT_MESSAGE_SETTINGS_CALL_ACCEPT_FROM_ITEM_VERIFIED" = "Verified users";
 
 /* Title of the section that allows the current user to select who can call them */
-"DIRECT_MESSAGE_SETTINGS_CALL_ACCEPT_FROM_TITLE" = "Allow audio and video calls from:";
+"DIRECT_MESSAGE_SETTINGS_CALL_ACCEPT_FROM_TITLE" = "Allow calls from:";
 
 /* Description of the item to enable/disable enhanced calls privacy. %@ will be replaced by an already localized "Learn more" link. */
 "DIRECT_MESSAGE_SETTINGS_CALL_ENABLE_ENHANCED_PRIVACY_ITEM_DESCRIPTION" = "Enable this setting to avoid revealing your IP address to your contact during the call. This will reduce call quality. %@";
@@ -4356,7 +4937,7 @@ This text gives the short description for a type of conversation in which only a
 "DIRECT_MESSAGE_SETTINGS_CALL_ENABLE_ITEM_DESCRIPTION" = "Take messaging to the next level with audio and video calls. When enabled you can select who you’re comfortable using it with. %@";
 
 /* Title of the item to enable/disable calls */
-"DIRECT_MESSAGE_SETTINGS_CALL_ENABLE_ITEM_TITLE" = "Enable audio and video calling";
+"DIRECT_MESSAGE_SETTINGS_CALL_ENABLE_ITEM_TITLE" = "Audio and video calls";
 
 /* Description of the item to disable calls on this specific device for the current user (reserved to employees) */
 "DIRECT_MESSAGE_SETTINGS_CALL_UNREGISTRATION_DESCRIPTION" = "[Employee only] When using both EarlyX and Twitter on the same device, receiving a call can conflict and result in an error. If you have this setup, we encourage you to unregister one of the two apps.";
@@ -4556,7 +5137,7 @@ This text gives the short description for a type of conversation in which only a
 "GROK_ANALYZE_LABEL" = "Analysis";
 
 /* Label for grok response messages */
-"GROK_ANSWER_LABEL" = "Answer";
+"GROK_ANSWER_LABEL" = "Grok says";
 
 /* Message Grok says after uses cancels the chat */
 "GROK_CANCELLED_REQUEST" = "Okay I’ve cancelled your request.";
@@ -5457,7 +6038,7 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 /* Accessibility label for a button that gives a users access to search within a Community */
 "COMMUNITY_SEARCH_ACCESSIBILITY_LABEL" = "Community Search";
 
-/* Accessibility label for tweeting at user */
+/* Accessibility label for Tweeting at user */
 "COMPOSE_ACCESSIBILITY_LABEL" = "Compose Tweet";
 
 
@@ -5520,7 +6101,7 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 
 
 /* Title and button CTA for modal sheet that links to sign up for Blue verified */
-"GET_VERIFIED_BUTTON_LABEL" = "Upgrade to Blue";
+"GET_VERIFIED_BUTTON_LABEL" = "Get Blue";
 
 /* Title and button CTA for modal sheet that links to sign up for Blue verified */
 "GET_VERIFIED_CONVERSATION_CONTROL_BUTTON_LABEL" = "Get verified";
@@ -5655,7 +6236,7 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 "REPORT_ACCESSIBILITY_ACTION_LABEL" = "Report";
 
 /* Action label in caret menu option for reporting illegal content. This a Digital Services Act (DSA) regulation required in EU law. */
-"REPORT_ILLEGAL_CONTENT_IN_EU_ACTION_LABEL" = "Report EU illegal content";
+"REPORT_ILLEGAL_CONTENT_IN_EU_ACTION_LABEL" = "Report content illegal in the EU";
 
 "REPORT_USER_ACTION_LABEL" = "Report";
 
@@ -5755,19 +6336,19 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 "TIMELINE_SORT_BY_LIKED" = "Popular";
 
 /* Title for timelines sort menu sheet option to sort by most recent */
-"TIMELINE_SORT_BY_RECENT" = "New";
+"TIMELINE_SORT_BY_RECENT" = "Latest";
 
 /* Title for timelines sort menu sheet option to sort by most relevant (trending) */
-"TIMELINE_SORT_BY_RELEVANT" = "Best";
+"TIMELINE_SORT_BY_RELEVANT" = "Standard";
 
 /* Title for timelines sort menu sheet option to sort replies by most liked */
 "TIMELINE_SORT_REPLIES_BY_LIKED" = "Popular";
 
 /* Title for timelines sort menu sheet option to sort replies by most recent */
-"TIMELINE_SORT_REPLIES_BY_RECENT" = "New";
+"TIMELINE_SORT_REPLIES_BY_RECENT" = "Latest";
 
 /* Title for timelines sort menu sheet option to sort replies by most relevant (trending) */
-"TIMELINE_SORT_REPLIES_BY_RELEVANT" = "Best";
+"TIMELINE_SORT_REPLIES_BY_RELEVANT" = "Standard";
 
 /* Title for timelines sort replies menu sheet*/
 "TIMELINE_SORT_REPLIES_TITLE" = "Sort replies";
@@ -5812,10 +6393,10 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 
 
 /* Label for the number of subscriptions of a viewer account when there is more than 1. */
-"USER_SUBSCRIPTIONS_COUNT_LABEL" = "Subscriptions";
+"USER_SUBSCRIPTIONS_COUNT_LABEL" = "Super Follows";
 
 /* Label for the number of subscriptions of a viewer account when there is only 1. */
-"USER_SUBSCRIPTION_COUNT_LABEL" = "Subscription";
+"USER_SUBSCRIPTION_COUNT_LABEL" = "Super Follow";
 
 
 /* Title for page showing analytics details about a Tweet. */
@@ -5893,15 +6474,15 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 
 // Section: Frameworks/ExpandedBio/Sources/ExpandedBioStrings/en.lproj/Localizable.strings
 
-"EXPANDED_BIO_ABOUT_LABEL" = "About";
+"EXPANDED_BIO_ABOUT_LABEL" = "Bio";
 
-"EXPANDED_BIO_ADD_BIO_LABEL" = "Tell us about yourself";
+"EXPANDED_BIO_ADD_BIO_LABEL" = "Who are you?";
 
-"EXPANDED_BIO_ADD_EXPERIENCE_LABEL" = "Add experience";
+"EXPANDED_BIO_ADD_EXPERIENCE_LABEL" = "Where have you worked?";
 
 "EXPANDED_BIO_DELETE_CONFIRMATION_TEXT" = "Are you sure you want to delete this?";
 
-"EXPANDED_BIO_EDITING_LABEL" = "Editing";
+"EXPANDED_BIO_EDITING_LABEL" = "Expanded bio";
 
 "EXPANDED_BIO_LABEL" = "Expanded bio";
 
@@ -5913,7 +6494,7 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 
 "EXPANDED_BIO_VISIBILITY_PUBLIC" = "Everyone";
 
-"EXPANDED_BIO_WORK_HISTORY_LABEL" = "Work History";
+"EXPANDED_BIO_WORK_HISTORY_LABEL" = "Experience";
 
 
 /* Name of the "EmployeeOnly" audience for Audio Spaces, abbreviated for use in small UI elements. It means that only employees will see and be able to join the Space. */
@@ -6159,7 +6740,7 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 
 "JOBS_LOCATION_FIELD_PLACEHOLDER" = "Location";
 
-"JOBS_SEARCH_FIELD_PLACEHOLDER" = "Search jobs";
+"JOBS_SEARCH_FIELD_PLACEHOLDER" = "Find a Job";
 
 "JOBS_START_TYPING_LOCATION_LABEL" = "Start typing a location";
 
@@ -6271,7 +6852,7 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 "PERISCOPE_CHAT_BOX_LABEL_SUBSCRIBERS_ONLY" = "Broadcaster's subscribers";
 
 /* Label for chat box when user isn't Blue. */
-"PERISCOPE_CHAT_BOX_LABEL_VERIFIED_ONLY" = "Subscribe to Blue to chat";
+"PERISCOPE_CHAT_BOX_LABEL_VERIFIED_ONLY" = "Get Blue to chat";
 
 /* Label for chat box to enter the chat. */
 "PERISCOPE_LIVE_CHAT_LABEL" = "Live chat";
@@ -7097,7 +7678,7 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 "BANNER_ACCESSIBILITY_LABEL" = "Profile banner photo";
 
 /** Title of an action which allows users to add missing context to Tweets for a feature called Community Notes */
-"BIRDWATCH_CONTRIBUTION_ACTION_TITLE" = "Write a Community Note";
+"BIRDWATCH_CONTRIBUTION_ACTION_TITLE" = "Create a Community Note";
 
 /** Title of a button with an icon in the Twitter side menu to access a feature called Community Notes */
 "BIRDWATCH_DASH_ITEM_GENERIC_LABEL" = "Community Notes";
@@ -7220,13 +7801,13 @@ COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 "BOOKMARKS_WITH_TWITTER_BLUE_ACCESSIBILITY_LABEL" = "Bookmarks with Twitter Blue";
 
 /* Label of the call-to-action to add or remove a bookmarked Tweet to a Folder */
-"BOOKMARK_FOLDERS_ADD_REMOVE_TO_FOLDER_LABEL" = "Add/Remove from Folder";
+"BOOKMARK_FOLDERS_ADD_REMOVE_TO_FOLDER_LABEL" = "Modify Folder";
 
 /* Accessibility label for the navigation bar title shown when you add or remove a bookmarked Tweet to a Folder, which also indicates that the feature being used is reserved for Twitter Blue customers. */
-"BOOKMARK_FOLDERS_ADD_REMOVE_TO_FOLDER_WITH_TWITTER_BLUE_ACCESSIBILITY_LABEL" = "Add/Remove from Folder with Twitter Blue";
+"BOOKMARK_FOLDERS_ADD_REMOVE_TO_FOLDER_WITH_TWITTER_BLUE_ACCESSIBILITY_LABEL" = "Modify Folder with Twitter Blue";
 
 /* Accessibility label for the navigation bar title shown when you add a recently bookmarked Tweet to a Folder, which also indicates that the feature being used is reserved for Twitter Blue customers. */
-"BOOKMARK_FOLDERS_ADD_TO_FOLDER_WITH_TWITTER_BLUE_ACCESSIBILITY_LABEL" = "Add to Folder with Twitter Blue";
+"BOOKMARK_FOLDERS_ADD_TO_FOLDER_WITH_TWITTER_BLUE_ACCESSIBILITY_LABEL" = "Add to Folder with Blue";
 
 /* Error message in the Bookmark folders timeline when folders can't be loaded */
 "BOOKMARK_FOLDERS_ARE_NOT_LOADING_LABEL" = "Folders aren’t loading right now";
@@ -8046,7 +8627,7 @@ This text is the title for the button that shows your current conversation contr
 
 /* Text for the button that appears when you choose Super Followers as your
  audience control in the composer */
-"CONVERSATION_CONTROL_BUTTON_SUPER_FOLLOWERS_TITLE" = "Only Subscribers can reply";
+"CONVERSATION_CONTROL_BUTTON_SUPER_FOLLOWERS_TITLE" = "Only Super Followers can reply";
 
 /* Text for the (untappable) button that appears when you are replying to a Trusted Friends Tweet as a member of the list. */
 "CONVERSATION_CONTROL_BUTTON_TRUSTED_FRIENDS_FOR_LIST_MEMBER_TITLE_FORMAT" = "Everyone in %@’s Twitter Circle can reply";
@@ -8061,8 +8642,8 @@ This text is the title for the button that shows your current conversation contr
 /* Conversation Control refers to the feature that allows users to restrict who can reply to a particular Tweet.
  This text gives the short description for a type of conversation in which only accounts the author mentioned can reply.
  Engineers: This text is distinct from CONVERSATION_CONTROL_NAME_BY_INVITATION in that it is the picker option for when a user *changes*
- the conversation control after tweeting, rather than the option for when a user initially selects a conversation
- control *upon* tweeting. */
+ the conversation control after Tweeting, rather than the option for when a user initially selects a conversation
+ control *upon* Tweeting. */
 "CONVERSATION_CONTROL_CHANGE_BY_INVITATION_PICKER_OPTION" = "Only people you mentioned";
 
 /* Conversation Control refers to the feature that allows users to restrict who can reply to a particular Tweet.
@@ -8104,7 +8685,7 @@ This specific option is the "Only You" option, meaning only the Tweet author can
 "CONVERSATION_CONTROL_CHANGE_TO_ONLY_YOU_TOAST_CONFIRMATION_TITLE_HTML" = "<p><span id=\"boldedText\">Only you</span> can reply now</p>";
 
 /* Conversation Control refers to the feature that allows users to restrict who can reply to a particular Tweet.
- This is the label for the one-time tooltip pointing at the Tweet caret menu and also is the label for the caret menu action item that allows users to change the conversation control setting after tweeting. */
+ This is the label for the one-time tooltip pointing at the Tweet caret menu and also is the label for the caret menu action item that allows users to change the conversation control setting after Tweeting. */
 "CONVERSATION_CONTROL_CHANGE_WHO_CAN_REPLY_ACTION_LABEL" = "Change who can reply";
 
 /* Conversation Control refers to the feature that allows users to restrict who can reply to a particular Tweet.
@@ -8268,10 +8849,10 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_DASHBOARD_MONETIZATION_OPTIONS_HEADER" = "Monetization options";
 
 /* Label for the Super Follows item that is shown in the Monetization options section of the creator dashboard screen. Navigates to the Super Follows screen or opens creator application flow. */
-"CREATOR_DASHBOARD_SUPER_FOLLOWS_ITEM" = "Subscriptions";
+"CREATOR_DASHBOARD_SUPER_FOLLOWS_ITEM" = "Super Follows";
 
 /* Application status subtitle for the Super follows item that is shown in the Monetization options section of the creator dashboard screen. Informs the user that their application was approved. For Super Follows, if the user has not finished setting up their benefits, an additional message will indicate that they need to complete the benefits. */
-"CREATOR_DASHBOARD_SUPER_FOLLOWS_ITEM_DETAIL_APPLICATION_APPROVED" = "Application accepted · Build your Subscription";
+"CREATOR_DASHBOARD_SUPER_FOLLOWS_ITEM_DETAIL_APPLICATION_APPROVED" = "Application accepted · Build your Super Follow";
 
 /* Application status subtitle for the ticketed spaces item that is shown in the Monetization options section of the creator dashboard screen. Informs the user that their application was approved. */
 "CREATOR_DASHBOARD_TICKETED_SPACES_ITEM_DETAIL_APPLICATION_APPROVED" = "Application approved";
@@ -8631,19 +9212,19 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_AGE_ELIGIBILITY_REQUIREMENT" = "18 years old";
 
 /* Title of the Twitter creator account agreement that the user must agree to if he/she wants to become a creator on Twitter. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_AGREEMENT" = "Subscriptions Terms";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_AGREEMENT" = "Super Follow Terms";
 
 /* Twitter creator account agreement that the user must agree to if he/she wants to become a creator on Twitter. Note to translators: Please, keep the HTML tags <p></p> and <a id=\"TERMS\"></a> in the text - <p></p> should enclose the whole text and <a id=\"TERMS\"></a> should enclose the "Super Follows Creator Terms" text. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_AGREEMENT_HTML_FORMAT" = "<p>By tapping below to apply, you agree to be bound by the <a id=\"TERMS\">Subscriptions Terms</a></p>";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_AGREEMENT_HTML_FORMAT" = "<p>By tapping below to apply, you agree to be bound by the <a id=\"TERMS\">Super Follow Terms</a></p>";
 
 /* Creator eligibility requirement in the creator eligibility screen. To apply to become a creator and apply for Super Follows, the user has to have at least 10,000 followers. The amount is shortened to 10k. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_FOLLOWERS_ELIGIBILITY_REQUIREMENT" = "10k followers";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_ACCOUNT_FOLLOWERS_ELIGIBILITY_REQUIREMENT" = "10K followers";
 
 /* Label for the apply button in creator eligibility screen with which the user can agree to the spaces creator terms and apply to become a creator if they are eligible for it. */
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_APPLY_BUTTON_LABEL" = "Apply";
 
 /* Subtitle of creator eligibility screen with which the user can apply to become a creator if they are eligible for it. Explains that the user has to meet the requirements that follow to apply for Super Follows */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_SUBTITLE" = "Your account meets our minimum application requirements for Subscriptions.";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_SUBTITLE" = "Your account meets our minimum application requirements for Super Follows.";
 
 /* Title of creator eligibility screen with which the user can apply to become a creator if they are eligible for it. A creator can get Super Followers through which he/she can earn money. */
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_ELEGIBILITY_TITLE" = "Be one of the first to apply";
@@ -8652,7 +9233,7 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_PRE_PROFILE_ELEGIBILITY_BUTTON_LABEL" = "Continue";
 
 /* After passing Super Follows creator eligibility the user is shown a screen which tells them that before applying for becoming a creator they have to do one more thing - complete their profile. This subtitle tells the user that you have to make sure their profile is updated. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_PRE_PROFILE_ELEGIBILITY_SUBTITLE" = "Complete your profile before submitting your Subscriptions application.";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_PRE_PROFILE_ELEGIBILITY_SUBTITLE" = "Complete your profile before submitting your Super Follow application.";
 
 /* Subtitle for the screen in Super Follows creator application flow that tells the user that their Super Follows creator application has been declined. */
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_STATE_DECLINED_SUBTITLE" = "Your account was not selected this time. Stay tuned for future opportunities to participate.";
@@ -8661,7 +9242,7 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_STATE_DECLINED_TITLE" = "Your account was not selected";
 
 /* Subtitle shown on the screen in super follows creator application flow that tells the user their application got approved but they need to fulfill one more step - they need to link/create a Stripe account. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_STATE_STRIPE_MISSING_DESCRIPTION" = "Add a verified Stripe account before getting started with Subscriptions.";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_STATE_STRIPE_MISSING_DESCRIPTION" = "Add a verified Stripe account before getting started with Super Follows.";
 
 /* Headline for the screen in Super Follows creator application flow that tells the user their application got approved but they need to fulfill one more step. */
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_STATE_STRIPE_MISSING_TITLE" = "Set up your payout details";
@@ -8673,10 +9254,10 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_STATE_WAITLISTED_SUBTITLE" = "We’ve added you to the waitlist and will let you know when there are more openings.";
 
 /* Twitter creator account agreement that the user must agree to if he/she wants to become a creator on Twitter. Note to translators: Please, keep the HTML tags <p></p> and <a id=\"TERMS\"></a> in the text - <p></p> should enclose the whole text and <a id=\"TERMS\"></a> should enclose the "Super Follows Creator Terms" text. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_SUBMIT_ACCOUNT_AGREEMENT_HTML_FORMAT" = "<p>By continuing, you agree to the <a id=\"TERMS\">Subscriptions Terms</a></p>";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_SUBMIT_ACCOUNT_AGREEMENT_HTML_FORMAT" = "<p>By continuing, you agree to the <a id=\"TERMS\">Super Follow Terms</a></p>";
 
 /* Label for the subtitle in creator eligibility screen. If the user is not eligibile, the subtitle will explain to the user the minimum requirements to apply. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_UNELEGIBILITY_SUBTITLE" = "Here are the minimum application requirements for Subscriptions.";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_UNELEGIBILITY_SUBTITLE" = "Here are the minimum application requirements for Super Follows.";
 
 /* Label for the title in creator eligibility screen. If the user is not eligibile, the title will explain to the user to come back later. */
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FLOW_UNELEGIBILITY_TITLE" = "Check back later";
@@ -8823,10 +9404,10 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_CONTENT_PLATFORMS_OTHER_TITLE" = "Content platforms";
 
 /* Message explaining to the user what should they type for the planned usage of their Super Follows application. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_PLANNED_USAGE_MESSAGE" = "How do you plan to use Subscriptions?";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_PLANNED_USAGE_MESSAGE" = "How do you plan to use Super Follows?";
 
 /* Hint that serves as a guide for the planned usage of the user's Super Follows application. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_PLANNED_USAGE_MESSAGE_HINT" = "Describe how you plan to use Subscriptions, what type of content you’d like to offer, etc";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_PLANNED_USAGE_MESSAGE_HINT" = "Describe how you plan to use Super Follows, what type of content you’d like to offer, etc";
 
 /* Header for planned usage text area in Super Follows creator application form. This section allows the user to input the intended usage of their Super Follows content. */
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_PLANNED_USAGE_TITLE" = "Planned usage";
@@ -8835,7 +9416,7 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_SUBTITLE" = "Tell us more about who you are, what you love, and why your followers keep coming back for more.";
 
 /* Title showing for Super Follows creator application form. */
-"CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_TITLE" = "Apply for Subscriptions";
+"CREATOR_SUPER_FOLLOWS_APPLICATION_FORM_TITLE" = "Apply for Super Follows";
 
 /* Button title shown on the Super Follows Benefits setup screen. Only shown if the user has partially gone through the benefits flow. */
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_CONTINUE_BUTTON_TITLE" = "Continue";
@@ -8844,22 +9425,22 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_FIRST_TIME_CONTINUE_BUTTON_TITLE" = "Get started";
 
 /* Message shown on the Super Follows Benefits setup screen. Only shown if the user has never gone through the flow. */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_FIRST_TIME_MESSAGE" = "You’ve been selected to join Subscriptions. Set up your offering details now and we’ll let you know when your Subscription is live.";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_FIRST_TIME_MESSAGE" = "You’ve been selected to join Super Follows. Set up your offering details now and we’ll let you know when your Super Follow is live.";
 
 /* Title shown on the Super Follows Benefits setup screen. Only shown if the user has never gone through the flow. */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_FIRST_TIME_TITLE" = "Get started with Subscriptions";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_FIRST_TIME_TITLE" = "Get started with Super Follows";
 
 /* Message shown on the Super Follows Benefits setup screen. Only shown if the user has partially completed their benefits flow. */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_MESSAGE" = "You’re so close! Finish adding your details to get started with Subscriptions.";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_MESSAGE" = "You’re so close! Finish adding your details to get started with Super Follows.";
 
 /* Title describing the Super Follower payment details on the Super Follows Benefits setup screen. */
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_PAYMENT_ACCOUNT" = "Link your payout details";
 
 /* Title describing the Super Follower perks on the Super Follows Benefits setup screen. */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_PERKS" = "Describe your Subscription perks";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_PERKS" = "Describe your Super Follows perks";
 
 /* Title describing the Super Follower subscription price on the Super Follows Benefits setup screen. Only shown if the user has never gone through the flow. */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_PRICE" = "Set a Subscription price";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_PRICE" = "Set a Super Follow price";
 
 /* Title shown on the Super Follows Benefits setup screen. Only shown if the user has partially completed their benefits flow. */
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_LANDING_PAGE_TITLE" = "Almost there…";
@@ -8876,9 +9457,9 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_HIGH_TIER_MESSAGE_1" = "  •  Build an intimate base";
 
 /* Message shown below the subscription price of an offering. in the Super Follows Benefits pricing selector screen. Note to translators: This string is part of a bullet list, so please leave the "  •  " (including double white spaces before and after) intact. For example, this will be shown as:
-   •  Regular tweeting and interacting with subscribers
+   •  Regular Tweeting and interacting with subscribers
  */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_HIGH_TIER_MESSAGE_2" = "  •  Regular tweeting and interacting with Subscribers";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_HIGH_TIER_MESSAGE_2" = "  •  Regular Tweeting and interacting with Super Followers";
 
 /* Message shown below the subscription price of an offering. in the Super Follows Benefits pricing selector screen. Note to translators: This string is part of a bullet list, so please leave the "  •  " (including double white spaces before and after) intact. For example, this will be shown as:
    •  Build a bigger, broader base
@@ -8886,9 +9467,9 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_LOW_TIER_MESSAGE_1" = "  •  Build a bigger, broader base";
 
 /* Message shown below the subscription price of an offering. in the Super Follows Benefits pricing selector screen. Note to translators: This string is part of a bullet list, so please leave the "  •  " (including double white spaces before and after) intact. For example, this will be shown as:
-   •  Infrequent tweeting and interacting with subscribers
+   •  Infrequent Tweeting and interacting with subscribers
  */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_LOW_TIER_MESSAGE_2" = "  •  Infrequent tweeting and interacting with Subscribers";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_LOW_TIER_MESSAGE_2" = "  •  Infrequent Tweeting and interacting with Super Followers";
 
 /* Message shown below the subscription price of an offering. in the Super Follows Benefits pricing selector screen. Note to translators: This string is part of a bullet list, so please leave the "  •  " (including double white spaces before and after) intact. For example, this will be shown as:
    •  Expand your base and maximize revenue
@@ -8896,9 +9477,9 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_MID_TIER_MESSAGE_1" = "  •  Expand your base and maximize revenue";
 
 /* Message shown below the subscription price of an offering. in the Super Follows Benefits pricing selector screen. Note to translators: This string is part of a bullet list, so please leave the "  •  " (including double white spaces before and after) intact. For example, this will be shown as:
-   •  Moderate tweeting and interacting with subscribers
+   •  Moderate Tweeting and interacting with subscribers
  */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_MID_TIER_MESSAGE_2" = "  •  Moderate tweeting and interacting with Subscribers";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_MID_TIER_MESSAGE_2" = "  •  Moderate Tweeting and interacting with Super Followers";
 
 /* Title of a subscription price in the Super Follows Benefits pricing selector screen. This is a formatted string that includes the price of one offering. For example, if the offering obtained from the service is $2.99, this string will be "$2.99 per month". */
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_ITEM_TITLE_FORMAT" = "%@ per month";
@@ -8916,7 +9497,7 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_PAGE_EDIT_BUTTON_TITLE" = "Edit";
 
 /* Title of the first section of the Super Follows Benefits pricing selector screen. */
-"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_PAGE_SECTION_1_TITLE" = "Choose what your Subscribers pay";
+"CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_PAGE_SECTION_1_TITLE" = "Choose what your Super Followers pay";
 
 /* Title of the Super Follows Benefits pricing selector screen. */
 "CREATOR_SUPER_FOLLOWS_BENEFITS_BUILDER_PRICING_PAGE_TITLE" = "Pricing setup";
@@ -8931,7 +9512,7 @@ This text is the accessibility hint for the button that lets the user change the
 "CREATOR_SUPER_FOLLOWS_ONBOARDING_SF_SECTION_1_TITLE" = "Do what you love and earn money doing it";
 
 /* Description of the first item in the "Super Follows perks" section of the onboarding screen. Describes Super Followers badges. */
-"CREATOR_SUPER_FOLLOWS_ONBOARDING_SF_SECTION_2_ITEM_1_DESCRIPTION" = "Subscribers get recognition with badges that make it easier to chat and connect.";
+"CREATOR_SUPER_FOLLOWS_ONBOARDING_SF_SECTION_2_ITEM_1_DESCRIPTION" = "Super Followers get recognition with badges that make it easier to chat and connect.";
 
 /* Title of the first item in the "Super Follows perks" section of the onboarding screen. Describes Badge benefits. */
 "CREATOR_SUPER_FOLLOWS_ONBOARDING_SF_SECTION_2_ITEM_1_TITLE" = "Badges";
@@ -10015,7 +10596,7 @@ This text is the accessibility hint for the button that lets the user change the
 "EDIT_PROFILE_LOCATION_LABEL" = "Location";
 
 /* Text in a profile menu option to modify existing professional information. */
-"EDIT_PROFILE_PROFESSIONAL_LABEL" = "Edit professional profile";
+"EDIT_PROFILE_PROFESSIONAL_LABEL" = "Professional profile";
 
 /* Text in a profile menu option to modify existing professional information. */
 "EDIT_PROFILE_SWITCH_PROFESSIONAL_LABEL" = "Switch to Professional";
@@ -10130,7 +10711,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Label for the title text of a sheet that appears explaining why some Tweets cannot be edited. */
 "EDIT_TWEET_UNAVAILABLE_SHEET_TITLE_LABEL" = "Certain Tweets are not editable";
 
-/* Label for button when tweeting an update (edit version) of a Tweet */
+/* Label for button when Tweeting an update (edit version) of a Tweet */
 "EDIT_TWEET_UPDATE_TWEET_ACTION_LABEL" = "Update";
 
 /* Message for alert shown when a Tweet edit update fails */
@@ -10248,7 +10829,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "EXPLORE_SETTINGS_CHOOSE_LOCATION_LABEL" = "Explore locations";
 
 /* Error message displayed on the Explore settings screen. This indicates that the users's settings couldn't be loaded from the server. Users won't be able to change any settings when they see this message. */
-"EXPLORE_SETTINGS_LOADING_ERROR" = "There was an error loading the Explore settings";
+"EXPLORE_SETTINGS_LOADING_ERROR" = "There was an error loading Settings for Explore";
 
 /* Search bar placeholder used for searching a list of geographic locations. This is only visible when the user has not entered any text into the search bar. Once the user types something, this label is hidden and a list of locations to choose is shown below the search bar. */
 "EXPLORE_SETTINGS_LOCATION_SEARCH_PLACEHOLDER" = "Search locations";
@@ -10260,7 +10841,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "EXPLORE_SETTINGS_SELECT_LOCATION" = "Select";
 
 /* Navigation bar title for the settings screen in the Explore tab of the app. */
-"EXPLORE_SETTINGS_TITLE" = "Explore settings";
+"EXPLORE_SETTINGS_TITLE" = "Settings for Explore";
 
 /* Detail label for the 'use current location' switch in the Explore tab's settings. When the switch is on, the user will see content in the Explore tab based on their current physical location. When the switch is off, the user will see content in the Explore tab based on a geographic location they've explicitly selected. */
 "EXPLORE_SETTINGS_USE_CURRENT_LOCATION_DETAIL_LABEL" = "When this is on, you’ll see what’s happening around you right now.";
@@ -10843,7 +11424,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "FOUND_MEDIA_AUTOPLAY_SWITCH_TITLE_LABEL" = "Autoplay GIFs";
 
 /* Text for the back button menu when going back to the gif search screen. Hold the back button in iOS 14 to see it. */
-"FOUND_MEDIA_BACK_TITLE" = "GIF Search";
+"FOUND_MEDIA_BACK_TITLE" = "Find a GIF";
 
 /* Found Media GIFs not loading error */
 "FOUND_MEDIA_ERROR_GIFS_NOT_LOADING" = "The GIFs are not loading right now.";
@@ -10861,7 +11442,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "FOUND_MEDIA_FREQUENTLY_USED_GIF_GROUP_DISPLAY_NAME" = "Frequently used";
 
 /* Found Media search bar placeholder */
-"FOUND_MEDIA_SEARCH_BAR_PLACEHOLDER" = "Search for GIFs";
+"FOUND_MEDIA_SEARCH_BAR_PLACEHOLDER" = "Find a GIF";
 
 /* Found media (GIF picker) title */
 "FOUND_MEDIA_TITLE" = "Choose GIF";
@@ -11098,7 +11679,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "IDENTITY_VERIFICATION_SETTINGS_PENDING_DESCRIPTION" = "We are reviewing your government-issued ID. We will keep you tweeted through notifications!\n\nOnce approved, you will receive an ID verified label on your profile so people know your account is ID verified.";
 
 /* Callout link text displayed on the Identity Verification Settings to encourage people to subscribe to Twitter Blue, in order to access the "ID verification" feature. */
-"IDENTITY_VERIFICATION_SETTINGS_SUBSCRIBE_TO_BLUE_CALLOUT_LINK_TEXT" = "Subscribe to Twitter Blue";
+"IDENTITY_VERIFICATION_SETTINGS_SUBSCRIBE_TO_BLUE_CALLOUT_LINK_TEXT" = "Get Twitter Blue";
 
 /* Callout text displayed on the Identity Verification Settings to encourage people to subscribe to Twitter Blue, in order to access the "ID verification" feature. */
 "IDENTITY_VERIFICATION_SETTINGS_SUBSCRIBE_TO_BLUE_CALLOUT_TEXT" = "Want to have an ID verified label in your profile?";
@@ -11993,7 +12574,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "MONETIZATION_EXCLUDED_HANDLES_DESCRIPTION" = "The @handles you select will be prevented from delivering ads alongside this video.";
 
 /* Placeholder for search bar in excluded handles picker view */
-"MONETIZATION_EXCLUDED_HANDLES_SEARCH_PLACEHOLDER" = "Search for people";
+"MONETIZATION_EXCLUDED_HANDLES_SEARCH_PLACEHOLDER" = "Find a person";
 
 /* Label for excluded video categories */
 "MONETIZATION_EXCLUDED_TAGS" = "Excluded tags";
@@ -12125,7 +12706,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "MUTE_KEYWORD_DURATION_OPTION_WEEK" = "7 days";
 
 /* Section Header for Label asking a user how long they want to mute a word when adding a new word */
-"MUTE_KEYWORD_DURATION_SECTION_HEADER" = "Mute timing";
+"MUTE_KEYWORD_DURATION_SECTION_HEADER" = "Mute duration";
 
 /* Default error message when editing keyword fails */
 "MUTE_KEYWORD_EDIT_WORD_DEFAULT_ERROR_LABEL" = "Unknown error";
@@ -12149,10 +12730,10 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "MUTE_KEYWORD_MUTE_OPTION_FROM_PEOPLE_YOU_DONT_FOLLOW" = "From people you don’t follow";
 
 /* Header for section in mute keyword flow indicating where in the app the word will be muted from */
-"MUTE_KEYWORD_MUTE_SURFACE_HEADER" = "Mute from";
+"MUTE_KEYWORD_MUTE_SURFACE_HEADER" = "Mute options";
 
 /* Toggle allowing user to mute a word from the home timeline */
-"MUTE_KEYWORD_MUTE_SURFACE_HOME_TIMELINE" = "Home timeline";
+"MUTE_KEYWORD_MUTE_SURFACE_HOME_TIMELINE" = "Timelines";
 
 /* Toggle allowing user to mute a word from their notifications */
 "MUTE_KEYWORD_MUTE_SURFACE_NOTIFICATIONS" = "Notifications";
@@ -12425,7 +13006,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "NO_INTERACTIONS_URT_SUBTITLE_MENTIONS_TEXT" = "When someone on Twitter mentions you in a Tweet or reply, you’ll find it here.";
 
 /* Subtitle message shown when there are no items in the Super Followers Notifications timeline. */
-"NO_INTERACTIONS_URT_SUBTITLE_SUPER_FOLLOWERS_TEXT" = "Notifications about new Tweets, Retweets, recommendations, and more from your Subscribers will show up here.";
+"NO_INTERACTIONS_URT_SUBTITLE_SUPER_FOLLOWERS_TEXT" = "Notifications about new Tweets, Retweets, recommendations, and more from your Super Followers will show up here.";
 
 /* Subtitle message shown when there are no items in the Verified Notifications timeline. */
 "NO_INTERACTIONS_URT_SUBTITLE_VERIFIED_NON_BLUE_MARKETS_TEXT" = "Likes, mentions, Retweets, and a whole lot more — when it comes from a verified account, you’ll find it here.";
@@ -12443,7 +13024,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "NO_INTERACTIONS_URT_TITLE_NOTIFICATIONS_MENTIONS_TEXT" = "Join the conversation";
 
 /* Subtitle message shown in an empty verified notification tab, with a nudge to purchase Twitter Blue */
-"NO_INTERACTIONS_URT_VERIFIED_TAB_NUDGE_SUBTITLE_TEXT" = "Likes, mentions, Retweets, and a whole lot more — when it comes from a verified account, you’ll find it here. {{LEARN_MORE}}\n\nNot verified? Subscribe now to get a verified account and join other people in quality conversations.";
+"NO_INTERACTIONS_URT_VERIFIED_TAB_NUDGE_SUBTITLE_TEXT" = "Likes, mentions, Retweets, and a whole lot more — when it comes from a verified account, you’ll find it here. {{LEARN_MORE}}\n\nNot verified? Get Blue now to get a verified account and join other people in quality conversations.";
 
 /* Shown when there are no likes for a user. */
 "NO_LIKES_LABEL" = "%@ hasn’t liked any Tweets";
@@ -12473,7 +13054,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "NO_SUPER_FOLLOW_TWEETS_LABEL_FORMAT" = "%@ hasn’t tweeted any Subscription content yet";
 
 /* Message shown for super follow Tweets timeline when there are no super follow Tweets for the logged in user */
-"NO_SUPER_FOLLOW_TWEETS_LABEL_OWN_PROFILE" = "Don’t keep your Subscribers waiting";
+"NO_SUPER_FOLLOW_TWEETS_LABEL_OWN_PROFILE" = "Don’t keep your Super Followers waiting";
 
 /* Message shown for relevant super follow Tweets timeline when there's no results */
 "NO_SUPER_FOLLOW_TWEETS_SUBTITLE_FORMAT" = "You can find %@’s Subscription content here.";
@@ -14690,7 +15271,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "SEARCH_EMPTY_RESULTS_FORMAT" = "No results for %@";
 
 /* Link text for opening the user's search settings from the context string on the empty search results page. */
-"SEARCH_EMPTY_RESULTS_SEARCH_SETTING_LINK_LABEL" = "Search settings";
+"SEARCH_EMPTY_RESULTS_SEARCH_SETTING_LINK_LABEL" = "Find a Setting";
 
 /* Search filter option which shows latest results */
 "SEARCH_FILTER_LATEST_LABEL" = "Latest";
@@ -14705,7 +15286,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "SEARCH_FILTER_VIDEOS_LABEL" = "Videos";
 
 /* Label for search placeholder for Profile Search. */
-"SEARCH_PLACEHOLDER_PROFILE_SEARCH_FORMAT" = "Search %@’s Tweets";
+"SEARCH_PLACEHOLDER_PROFILE_SEARCH_FORMAT" = "Find a Tweet from %@";
 
 /* Bottom string in spelling suggestion cell, offers to expand query */
 "SEARCH_QUERY_SPELLING_ACTION_EXPAND_SUBTITLE" = "Search instead for “%@”";
@@ -14732,7 +15313,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "SEARCH_SETTINGS_HINT_LABEL_TEXT" = "Try searching for password reset, notifications, etc";
 
 /* Search bar title in the settings view  */
-"SEARCH_SETTINGS_LABEL_TITLE" = "Find a setting";
+"SEARCH_SETTINGS_LABEL_TITLE" = "Find a Setting";
 
 /* The description of the setting for additional password protection section (a switch that can be turned on or off) */
 "SECURITY_SETTINGS_ADDITIONAL_PASSWORD_PROTECTION_DESCRIPTION" = "For added protection, you’ll need to confirm your email address or phone number to reset your Twitter password.";
@@ -16079,7 +16660,7 @@ ex. Your purchase of Twitter Blue for @jack was successful. */
 "SUBSCRIPTION_UNDO_SEND_VIEW_TWEET_ACTION_TITLE" = "View Tweet";
 
 /* Text for Blue upgrade button */
-"SUBSCRIPTION_UPGRADE_BUTTON_TEXT" = "Upgrade to Twitter Blue";
+"SUBSCRIPTION_UPGRADE_BUTTON_TEXT" = "Get Blue";
 
 /* Body text for Blue upgrade callout */
 "SUBSCRIPTION_UPGRADE_CALLOUT_BODY_TEXT" = "Get a verified account and blue checkmark.";
@@ -16088,7 +16669,7 @@ ex. Your purchase of Twitter Blue for @jack was successful. */
 "SUBSCRIPTION_UPGRADE_CALLOUT_HEADLINE_TEXT" = "Upgrade Available";
 
 /* CTA button title for Blue marketing upsell */
-"SUBSCRIPTION_UPSELL_CTA_BUTTON_TITLE" = "Subscribe";
+"SUBSCRIPTION_UPSELL_CTA_BUTTON_TITLE" = "Get Blue";
 
 /* Label for footer that appears below the CTA button in "Verified" ntab that prompts the user to join a subscription that costs %1$@ per %2$@. %1$@ will be replaced with a string describing the cost of the subscription. %2$@ will be replaced with the billing period. ex. 'month', 'year', 'week'. 'mo' is an abbreviation of month. We will use a localized string for %2$@
 eg. "Limited time offer: $3/mo" */
@@ -16101,7 +16682,7 @@ eg. "Limited time offer: $3/mo" */
 "SUBSCRIPTION_UPSELL_FEATURES_LEARN_MORE_TEXT" = "Learn more";
 
 /* Upsell feature item title in Toast to upsell Blue for longer uploads */
-"SUBSCRIPTION_UPSELL_FEATURES_MEDIA_UPLOAD_TOAST_TITLE" = "Subscribe to Blue to Tweet longer videos.";
+"SUBSCRIPTION_UPSELL_FEATURES_MEDIA_UPLOAD_TOAST_TITLE" = "Get Blue to Tweet longer videos.";
 
 /* Description of the setting that allows users to trigger a new identity verification flow. */
 "SUBSCRIPTION_VERIFICATION_IDENTITY_VERIFICATION_DETAILS" = "Verify your government ID to confirm your identity and unlock features.";
@@ -16116,7 +16697,7 @@ eg. "Limited time offer: $3/mo" */
 "SUGGESTED_FOLLOWS_LABEL" = "Suggested follows";
 
 /* Title label when creators view their super followers */
-"SUPER_FOLLOWERS_LABEL" = "Subscribers";
+"SUPER_FOLLOWERS_LABEL" = "Super Followers";
 
 /* Accessibility hint for Super Following button on a creator's profile. */
 "SUPER_FOLLOWING_BUTTON_ACCESSIBILITY_HINT" = "Manages your Subscription";
@@ -16138,7 +16719,7 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_BUTTON_ACCESSIBILITY_HINT" = "Informs about a Subscription to this user";
 
 /* Accessibility label for Super Follow button on a creator's profile. */
-"SUPER_FOLLOW_BUTTON_ACCESSIBILITY_LABEL" = "Subscribe";
+"SUPER_FOLLOW_BUTTON_ACCESSIBILITY_LABEL" = "Super Follow";
 
 /* Detail text when super followers found there is a connection issue with the creator and need to unsubscribe. */
 "SUPER_FOLLOW_CONNECTION_ISSUE_DETAILS_TEXT" = "To avoid future charges, go to Apple settings to cancel your Subscription.";
@@ -16183,10 +16764,10 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_CREATOR_MANAGEMENT_HELP_HEADER_LABEL" = "Need more help?";
 
 /* Label for Super Follows creator pricing description */
-"SUPER_FOLLOW_CREATOR_MANAGEMENT_PRICING_DESCRIPTION_LABEL" = "Your Subscribers are charged the monthly fee you have set";
+"SUPER_FOLLOW_CREATOR_MANAGEMENT_PRICING_DESCRIPTION_LABEL" = "Your Super Followers are charged the monthly fee you have set";
 
 /* Disclaimer title for Super Follows creator pricing description */
-"SUPER_FOLLOW_CREATOR_MANAGEMENT_PRICING_DISCLAIMER_SUBTITLE_LABEL" = "In the future we plan to offer the ability to change your Subscription price. If you would like to change this you will have to set up your Subscription offering again and all your current Subscribers will have to Resubscribe.";
+"SUPER_FOLLOW_CREATOR_MANAGEMENT_PRICING_DISCLAIMER_SUBTITLE_LABEL" = "In the future we plan to offer the ability to change your Subscription price. If you would like to change this you will have to set up your Subscription offering again and all your current Super Followers will have to Resubscribe.";
 
 /* Disclaimer title for Super Follows creator pricing description */
 "SUPER_FOLLOW_CREATOR_MANAGEMENT_PRICING_DISCLAIMER_TITLE_LABEL" = "This price cannot currently be changed.";
@@ -16225,7 +16806,7 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_BENEFITS_EXAMPLE3_TEXT" = "Get ready for a VIP experience. Think: Subscriber-only content like polls, videos, and deals.\n";
 
 /* Super Follow creator onboarding intro message example subtitle */
-"SUPER_FOLLOW_CREATOR_ONBOARDING_BENEFITS_EXAMPLE_SUBTITLE" = "The kind of content you offer Subscribers is entirely up to you. Here are some examples to help get you started.";
+"SUPER_FOLLOW_CREATOR_ONBOARDING_BENEFITS_EXAMPLE_SUBTITLE" = "The kind of content you offer Super Followers is entirely up to you. Here are some examples to help get you started.";
 
 /* Super Follow creator onboarding benefits card subtitle */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_BENEFITS_SUBTITLE" = "Give people a taste of what they’re in for each month with a quick summary of the bonus content you’ll share.";
@@ -16243,7 +16824,7 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_CARD_SUBTITLE" = "Support your favorite people on Twitter for bonus content and extra perks.";
 
 /* Super Follow creator onboarding intro card title */
-"SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_CARD_TITLE" = "Subscribe to\n%@";
+"SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_CARD_TITLE" = "Super Follow \n%@";
 
 /* Super Follow creator onboarding introduction text editor placeholder text */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_EDITOR_PLACEHOLDER" = "Add an introduction…";
@@ -16264,7 +16845,7 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_EXAMPLE_TITLE" = "Not sure what to say?";
 
 /* Super Follow creator onboarding intro message subtitle */
-"SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_SUBTITLE" = "Make a good first impression with a quick intro message for your potential Subscribers.";
+"SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_SUBTITLE" = "Make a good first impression with a quick intro message for your potential Super Followers.";
 
 /* Super Follow creator onboarding intro message title */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_INTRO_TITLE" = "Take a minute to say hello";
@@ -16303,10 +16884,10 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_REVIEW_TITLE" = "How does everything look?";
 
 /* Super Follow creator onboarding message subtitle on when user is editing VIP benefits */
-"SUPER_FOLLOW_CREATOR_ONBOARDING_VIP_SUBTITLE" = "Nothing to change or edit here. All of your Subscribers will get a public badge when they Subscribe to your account";
+"SUPER_FOLLOW_CREATOR_ONBOARDING_VIP_SUBTITLE" = "Nothing to change or edit here. All of your Super Followers will get a public badge when they Subscribe to your account";
 
 /* Super Follow creator onboarding message title on when user is editing VIP benefits */
-"SUPER_FOLLOW_CREATOR_ONBOARDING_VIP_TITLE" = "Give your Subscribers badges";
+"SUPER_FOLLOW_CREATOR_ONBOARDING_VIP_TITLE" = "Give your Super Followers badges";
 
 /* Button title for Super Follow education when user taps "Super Follower" badge on Tweet. Button dismisses the dialog */
 "SUPER_FOLLOW_EDUCATION_PROMPT_CANCEL_BUTTON" = "Got it";
@@ -16321,7 +16902,7 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_EDUCATION_PROMPT_TITLE" = "What’s a Subscription?";
 
 /* Disclaimer in the Super Follows manage subscription page for the "badge privacy" feature section. Each instance of %1$@ will be replaced with '@<username>' */
-"SUPER_FOLLOW_MANAGE_SUBSCRIPTION_BADGE_PRIVACY_DISCLAIMER" = "When you turn this off, %1$@ and their Subscribers will still see your badge when you reply to %1$@’s Subscriber-only Tweets. %1$@ will always see your badge.";
+"SUPER_FOLLOW_MANAGE_SUBSCRIPTION_BADGE_PRIVACY_DISCLAIMER" = "When you turn this off, %1$@ and their Super Followers will still see your badge when you reply to %1$@’s Subscriber-only Tweets. %1$@ will always see your badge.";
 
 /* Subtitle in the Super Follows manage subscription page for the "badge privacy" feature section. %@ will be replaced with '@<username>' */
 "SUPER_FOLLOW_MANAGE_SUBSCRIPTION_BADGE_PRIVACY_SUBTITLE" = "Allow anyone to see your Subscriber badge when you reply to %@’s Tweets";
@@ -16360,10 +16941,10 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_PURCHASE_SUCCESS_TOAST_MESSAGE_WITH_ACCOUNT" = "Your Subscription to @%1$@ on account @%2$@ has been successfully purchased";
 
 /* The retweet menu subtitle when Super Follower wants to retweet a Super Follow Tweet */
-"SUPER_FOLLOW_RETWEET_SUBTITLE" = "Only Subscribers can see this Retweet.";
+"SUPER_FOLLOW_RETWEET_SUBTITLE" = "Only Super Followers can see this Retweet.";
 
 /* Message shown in the Super Followers list when another user has no Super Followers. */
-"SUPER_FOLLOW_SUPER_FOLLOWERS_LIST_EMPTY_SUBTEXT_FORMAT" = "All of %@’s Subscribers will show up here.";
+"SUPER_FOLLOW_SUPER_FOLLOWERS_LIST_EMPTY_SUBTEXT_FORMAT" = "All of %@’s Super Followers will show up here.";
 
 /* Message shown in the Super Followers list when you have no Super Followers. */
 "SUPER_FOLLOW_SUPER_FOLLOWERS_LIST_EMPTY_SUBTEXT_OWN_PROFILE" = "You will find a list of everyone who subscribes to you here.";
@@ -16372,7 +16953,7 @@ eg. "Super Following Jack" */
 "SUPER_FOLLOW_SUPER_FOLLOWERS_LIST_EMPTY_TITLE" = "Be their first Subscriber";
 
 /* Title shown in the Super Followers list when you have no Super Followers. */
-"SUPER_FOLLOW_SUPER_FOLLOWERS_LIST_EMPTY_TITLE_OWN_PROFILE" = "You don’t have any Subscribers yet";
+"SUPER_FOLLOW_SUPER_FOLLOWERS_LIST_EMPTY_TITLE_OWN_PROFILE" = "You don’t have any Super Followers yet";
 
 /* Message for super followers to unsubscribe */
 "SUPER_FOLLOW_UNSUBSCRIBE_LABEL" = "Go to Apple Settings";
@@ -18463,10 +19044,10 @@ eg. "Super Following Jack" */
 "VOICE_ROOM_SCHEDULE_UNSET_REMINDER_ACTION" = "Unset reminder";
 
 /* Placeholder of the search field allowing a user to input a user's name, when they want to invite them to be an admin of an Audio Space. The invited user must already be present in the space. */
-"VOICE_ROOM_SELECT_ADMINS_PLACEHOLDER" = "Search for people in this Space";
+"VOICE_ROOM_SELECT_ADMINS_PLACEHOLDER" = "Find a person in this Space";
 
 /* Placeholder of the search field allowing a user to input a username or the name of a group, when they want to invite them into an Audio Space. */
-"VOICE_ROOM_SELECT_USERS_PLACEHOLDER" = "Search for people and groups";
+"VOICE_ROOM_SELECT_USERS_PLACEHOLDER" = "Find a person or a group";
 
 /* Message below search field informing the user how many remaining admins (co-hosts) can be invited to a Space. %lu will be replaced by the number of co-hosts invites remaining. */
 "VOICE_ROOM_SELECT_USERS_REMAINING_ADMIN_SPOTS" = "Add up to %lu more co-hosts";
@@ -19140,7 +19721,7 @@ eg. "Super Following Jack" */
 "SUBSCRIPTION_HEADER_TEXT" = "Twitter\nBlue";
 
 /* Label for button that prompts user to join a subscription. */
-"SUBSCRIPTION_JOIN_BUTTON_ACTION" = "Subscribe";
+"SUBSCRIPTION_JOIN_BUTTON_ACTION" = "Get Blue";
 
 /* Descriptive text in a half sheet Twitter Blue Marketing page that encourages users to get a Twitter Blue subscription so they can edit their Tweets, among other features */
 "SUBSCRIPTION_MARKETING_EDIT_TWEET_UPSELL_SHEET_MESSAGE" = "Twitter Blue subscribers get early access to features like Edit Tweet, which lets you update a Tweet up to 5 times within the first 30 minutes after it’s published.";
@@ -19158,7 +19739,7 @@ eg. "Super Following Jack" */
 "SUBSCRIPTION_MARKETING_UPSELL_SHEET_SIGN_UP_FOR_BLUE_ACTION_LABEL" = "Sign up for Blue";
 
 /* Descriptive text in a half sheet Twitter Blue Marketing page that encourages users to get a Twitter Blue subscription so they can vote in Twitter Blue polls. */
-"SUBSCRIPTION_MARKETING_VERIFIED_POLLS_UPSELL_SHEET_MESSAGE" = "Vote in polls that are exclusive to verified accounts. Subscribe to Blue to vote in future polls.";
+"SUBSCRIPTION_MARKETING_VERIFIED_POLLS_UPSELL_SHEET_MESSAGE" = "Vote in polls that are exclusive to verified accounts. Get Blue to vote in future polls.";
 
 /* Title of a half sheet Twitter Blue Marketing page that encourages users to get a Twitter Blue subscription so they can vote in Blue-only polls. */
 "SUBSCRIPTION_MARKETING_VERIFIED_POLLS_UPSELL_SHEET_TITLE" = "Verified polls";
@@ -19187,7 +19768,7 @@ eg. "Super Following Jack" */
 // Section: Frameworks/TwitterLists/Sources/TwitterListsStrings/en.lproj/Localizable.strings
 
 /* Title of button to add user to Lists */
-"ADD_TO_LISTS_LABEL" = "Add/remove from Lists";
+"ADD_TO_LISTS_LABEL" = "Modify List membership";
 
 /* Label for the subtitle of the block action from a List */
 "BLOCK_ACTION_LIST_SUBTITLE_FORMAT" = "This prevents %@ from including you in any of their Lists, including this one.";
@@ -19673,7 +20254,7 @@ eg. "Super Following Jack" */
 "COMMUNITIES_MODERATORS_COUNT_ZERO" = "No Moderators";
 
 /* Placeholder text in search field when searching in Communities context. The placeholder will be replaced with the Community's name. */
-"COMMUNITIES_SEARCH_PLACEHOLDER_FORMAT" = "Search %@";
+"COMMUNITIES_SEARCH_PLACEHOLDER_FORMAT" = "Find a Tweet in %@";
 
 /* Tab accessibility value for non-numeric new item or items. */
 "COMMUNITIES_TAB_NON_NUMERIC_ITEM_ACCESSIBILITY_VALUE" = "New items.";
@@ -19967,7 +20548,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_INFO_MEMBER_CAPABILITIES_TEXT" = "Only Community members can Tweet, like, or reply.";
 
 /* Title of the "Info" module within the Community "About" tab. The Info module displays the creator, creation date, and other info about the Community. */
-"COMMUNITY_INFO_MODULE_TITLE" = "Community Info";
+"COMMUNITY_INFO_MODULE_TITLE" = "About this Community";
 
 /* Text describing who is able to join this Community relative to all Twitter users */
 "COMMUNITY_INFO_PUBLIC_CAPABILITIES_OPEN_JOIN_POLICY_TEXT" = "Anyone can join this Community.";
@@ -19976,19 +20557,19 @@ eg. "Super Following Jack" */
 "COMMUNITY_INFO_PUBLIC_CAPABILITIES_RESTRICTED_JOIN_POLICY_TEXT" = "To join this Community, you must ask and be approved.";
 
 /* Text describing who is able to join this Community relative to all Twitter users */
-"COMMUNITY_INFO_PUBLIC_CAPABILITIES_SUPER_FOLLOW_REQUIRED_JOIN_POLICY_TEXT_TEMPLATE" = "Only Subscribers of %@ can join this Community.";
+"COMMUNITY_INFO_PUBLIC_CAPABILITIES_SUPER_FOLLOW_REQUIRED_JOIN_POLICY_TEXT_TEMPLATE" = "Only Super Followers of %@ can join this Community.";
 
 /* Text describing the community requiring a Super Follow. */
 "COMMUNITY_INFO_PUBLIC_CAPABILITIES_SUPER_FOLLOW_REQUIRED_TEXT" = "This is a Subscriber Community.";
 
 /* Text describing who is able to view the contents of this Community relative to all Twitter users */
-"COMMUNITY_INFO_PUBLIC_CAPABILITIES_VISIBILITY_TEXT" = "All Communities are publicly visible.";
+"COMMUNITY_INFO_PUBLIC_CAPABILITIES_VISIBILITY_TEXT" = "Communities on Twitter are public.";
 
 /* Accessibility label for the button that presents the Invite members screen where Community members can invite other users to join a Community. */
 "COMMUNITY_INVITE_BUTTON_ACCESSIBILITY_LABEL" = "Invite members";
 
 /* Placeholder text shown in the Invite members search box used to search for users to invite to a Community. */
-"COMMUNITY_INVITE_MEMBERS_PLACEHOLDER" = "Search for people";
+"COMMUNITY_INVITE_MEMBERS_PLACEHOLDER" = "Find a person";
 
 /* Text shown at the top of the Invite members screen when the user has no more invites available to use in a Community. */
 "COMMUNITY_INVITE_MEMBERS_REMAINING_INVITES_NONE" = "You have 0 invites left";
@@ -20258,7 +20839,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_MEMBERS_SCREEN_TITLE" = "Members";
 
 /* Placeholder text shown in the Community members search box. */
-"COMMUNITY_MEMBERS_SEARCH_PLACEHOLDER" = "Search for people";
+"COMMUNITY_MEMBERS_SEARCH_PLACEHOLDER" = "Find a person";
 
 /* Accessibility label for a button that shows a menu of actions available for a member of a Community. Examples of additional actions are removing the user from the Community, or viewing their profile. */
 "COMMUNITY_MEMBER_ACTIONS_BUTTON_ACCESSIBILITY_LABEL" = "More actions";
@@ -20270,7 +20851,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_MEMBER_BADGE_LABEL" = "Member";
 
 /* Text label/badge shown next to a user's name when they are a Moderator of a Community. */
-"COMMUNITY_MEMBER_MODERATOR_BADGE_LABEL" = "Mod";
+"COMMUNITY_MEMBER_MODERATOR_BADGE_LABEL" = "Moderator";
 
 /* Text label/badge shown next to a user's name when they are not a member of a Community. */
 "COMMUNITY_MEMBER_NON_MEMBER_BADGE_LABEL" = "Not in Community";
@@ -21415,7 +21996,7 @@ eg. "Super Following Jack" */
 "DIRECT_MESSAGE_CONVERSATION_SETTINGS_ADD_PEOPLE_LABEL" = "Add people";
 
 /* Placeholder text shown until users are chosen for adding members to a group Direct Message conversation." */
-"DIRECT_MESSAGE_CONVERSATION_SETTINGS_ADD_PEOPLE_SEARCH_INPUT_PLACEHOLDER_TEXT" = "Search for people";
+"DIRECT_MESSAGE_CONVERSATION_SETTINGS_ADD_PEOPLE_SEARCH_INPUT_PLACEHOLDER_TEXT" = "Find a person";
 
 /* Accessibility hint to bring up a menu that allows editing the group's photo, among other options */
 "DIRECT_MESSAGE_CONVERSATION_SETTINGS_EDIT_GROUP_AVATAR_FIELD_ACCESSIBILITY_HINT" = "Edits this group photo";
@@ -21958,7 +22539,7 @@ eg. "Super Following Jack" */
 "DIRECT_MESSAGE_INBOX_LOW_QUALITY_PIVOT_TEXT" = "Show";
 
 /* Direct messages low quality inbox title text */
-"DIRECT_MESSAGE_INBOX_LOW_QUALITY_TITLE_TEXT" = "Additional messages";
+"DIRECT_MESSAGE_INBOX_LOW_QUALITY_TITLE_TEXT" = "Additional Requests";
 
 /* Subtitle for the view shown when the requests inbox in DMs is empty. */
 "DIRECT_MESSAGE_INBOX_UNTRUSTED_EMPTY_STATE_MESSAGE" = "Incoming messages or group messages from people you don’t follow will show up here, and you’ll be able to accept or delete them.";
@@ -22009,7 +22590,7 @@ eg. "Super Following Jack" */
 "DIRECT_MESSAGE_MESSAGE_REQUESTS_INBOX_TIMELINE_SUBTITLE_NEW_REQUESTS_TEN_PLUS" = "10+ new requests";
 
 /* Title for Direct Message message requests inbox timeline */
-"DIRECT_MESSAGE_MESSAGE_REQUESTS_INBOX_TIMELINE_TITLE" = "Message requests";
+"DIRECT_MESSAGE_MESSAGE_REQUESTS_INBOX_TIMELINE_TITLE" = "Requests";
 
 /* Label for an action that displays additional actions that may be taken on a Direct Message conversation. */
 "DIRECT_MESSAGE_MORE_ACTIONS_CONVERSATION_ACTION_LABEL" = "More actions";
@@ -23158,7 +23739,7 @@ eg. "Super Following Jack" */
 "PROFESSIONAL_PROFILE_EDIT_MODULE_TEXT" = "Profile Spotlight";
 
 /* Text that allows the user to go from a professional profile back to a regular profile. */
-"PROFESSIONAL_PROFILE_EDIT_PROFILE_TYPE_TEXT" = "Switch account type";
+"PROFESSIONAL_PROFILE_EDIT_PROFILE_TYPE_TEXT" = "Change account type";
 
 /* Message displayed to user when an empty list of professional profile modules was returned. */
 "PROFESSIONAL_PROFILE_EMPTY_MODULE_LIST_LOADED_MESSAGE_TEXT" = "No spotlights available.";
@@ -23555,7 +24136,7 @@ eg. "Super Following Jack" */
 "SEARCH_FILTERS_APPLY_LABEL" = "Apply";
 
 /* Title of search filters page, which allows users to refine search results */
-"SEARCH_FILTERS_TITLE_LABEL" = "Search filters";
+"SEARCH_FILTERS_TITLE_LABEL" = "Filters";
 
 /* Search filter option which does NOT filter results by location */
 "SEARCH_FILTER_LOCATION_ALL_LABEL" = "Anywhere";
@@ -23567,7 +24148,7 @@ eg. "Super Following Jack" */
 "SEARCH_FILTER_LOCATION_NEAR_YOU_LABEL" = "Near you";
 
 /* People search filter option which does NOT filter results by author */
-"SEARCH_FILTER_PEOPLE_ALL_LABEL" = "From anyone";
+"SEARCH_FILTER_PEOPLE_ALL_LABEL" = "Anyone";
 
 /* People search filter option which only shows results from people you follow */
 "SEARCH_FILTER_PEOPLE_FOLLOWING_LABEL" = "People you follow";
@@ -23955,7 +24536,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "BOOKMARKS_REMOVE_FROM_BOOKMARKS_CAROUSEL_LABEL" = "Remove Bookmark";
 
 /* Label of the call-to-action to add a recently bookmarked Tweet to a Folder */
-"BOOKMARK_FOLDERS_ADD_TO_FOLDER_LABEL" = "Add to Folder";
+"BOOKMARK_FOLDERS_ADD_TO_FOLDER_LABEL" = "Add to a Folder";
 
 /* Label for confirming that yes you want to delete a bookmark */
 "BOOKMARK_FOLDERS_DELETE_BOOKMARK_CONFIRMATION_LABEL" = "Yes, delete";
@@ -24029,7 +24610,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Button text displayed below a Tweet. Tapping it will cause a Tweet to be kept in a Community */
 "COMMUNITY_REVIEW_TWEET_KEEP_TWEET_ACTION" = "Keep";
 
-/* Accessibility label for tweeting at user */
+/* Accessibility label for Tweeting at user */
 "COMPOSE_ACCESSIBILITY_LABEL" = "Compose Tweet";
 
 /* Placeholder text for empty composer */
@@ -24078,7 +24659,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "CONVERSATION_CARD_CALL_TO_ACTION_LABEL_FORMAT" = "Tweet %@";
 
 /* String that adds to conversation compose context to tell that the reply will only be shown to the creator's Super Followers */
-"CONVERSATION_COMPOSE_CONTEXT_SUPER_FOLLOWERS_LABEL" = "Subscribers";
+"CONVERSATION_COMPOSE_CONTEXT_SUPER_FOLLOWERS_LABEL" = "Super Followers";
 
 /* Conversation Control title used in Community Tweets from a user that has been removed from a Community. */
 "CONVERSATION_CONTROL_PROMPT_COMMUNITY_TWEET_FROM_REMOVED_USER_DESCRIPTION" = "When members are removed, their Tweets are hidden from the rest of the Community.";
@@ -24144,7 +24725,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "DIRECT_MESSAGES_RECEIVE_FROM_ANYONE_SETTING_DESCRIPTION" = "Let people who you don’t follow send you message requests and add you to group conversations. To reply to their messages, you need to accept the request. %@";
 
 /* Title of setting for receiving Direct Messages from anyone */
-"DIRECT_MESSAGES_RECEIVE_FROM_ANYONE_SETTING_TITLE" = "Allow message requests from everyone";
+"DIRECT_MESSAGES_RECEIVE_FROM_ANYONE_SETTING_TITLE" =  "Everyone";
 
 /* Title of modal sheet showing the participants that have seen a message */
 "DIRECT_MESSAGES_SEEN_BY_TITLE" = "Seen by";
@@ -24159,7 +24740,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "DIRECT_MESSAGE_REACTION_CREATION_BUTTON_ACCESSIBILITY_LABEL" = "Add reaction";
 
 /* Placeholder text shown until users are chosen for sharing a Tweet via Direct Message." */
-"DIRECT_MESSAGE_SHARE_TWEET_ADDRESSING_BAR_PLACEHOLDER_TEXT" = "Search for people and groups";
+"DIRECT_MESSAGE_SHARE_TWEET_ADDRESSING_BAR_PLACEHOLDER_TEXT" = "Find a person or a group";
 
 /* Accessibility hint for Direct Message user picker selected rows */
 "DIRECT_MESSAGE_USER_PICKER_SELECTED_ROW_ACCESSIBILITY_HINT" = "Removes user";
@@ -24690,25 +25271,25 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "SUMMARY_CONTENT_CONTEXT_FORMAT" = " · %1$@ at %2$@";
 
 /* Accessibility hint on what tapping the "Super Follower" badge would do, i.e., presenting a modal with the explanatory content about Super Follow. */
-"SUPER_FOLLOWER_BADGE_ACCESSIBILITY_HINT" = "Explains what a Subscription is";
+"SUPER_FOLLOWER_BADGE_ACCESSIBILITY_HINT" = "Explains what a Super Follow is";
 
 /* Accessibility label of the "Super Follower" badge shown on replies to a Creator's Tweet from a Super Follower of theirs. */
-"SUPER_FOLLOWER_BADGE_ACCESSIBILITY_LABEL" = "Subscriber";
+"SUPER_FOLLOWER_BADGE_ACCESSIBILITY_LABEL" = "Super Follower";
 
 /* Accessibility label of the "Super Follows You" badge shown on replies to your Tweet from a Super Follower of yours (as a Creator). */
-"SUPER_FOLLOWS_YOU_BADGE_ACCESSIBILITY_LABEL" = "Subscribes to you";
+"SUPER_FOLLOWS_YOU_BADGE_ACCESSIBILITY_LABEL" = "Super Follows you";
 
 /* Badge label for super follower in Tweets view when creators are viewing */
-"SUPER_FOLLOWS_YOU_BADGE_LABEL" = "Subscribes to you";
+"SUPER_FOLLOWS_YOU_BADGE_LABEL" = "Super Follows you";
 
 /* Title of super follow button in profile or user view */
-"SUPER_FOLLOW_BUTTON_LABEL" = "Subscribe";
+"SUPER_FOLLOW_BUTTON_LABEL" = "Super Follow";
 
 /* Super Follow creator onboarding benefits card title */
-"SUPER_FOLLOW_CREATOR_ONBOARDING_BENEFITS_CARD_TITLE" = "Get bonus content when you subscribe";
+"SUPER_FOLLOW_CREATOR_ONBOARDING_BENEFITS_CARD_TITLE" = "Get bonus content when you Super Follow";
 
 /* Super Follow creator onboarding subtitle on vip card */
-"SUPER_FOLLOW_CREATOR_ONBOARDING_VIP_CARD_SUBTITLE" = "You’ll get a public Subscription badge that makes it easier to get noticed, chat, and connect.";
+"SUPER_FOLLOW_CREATOR_ONBOARDING_VIP_CARD_SUBTITLE" = "You’ll get a public Super Follow badge that makes it easier to get noticed, chat, and connect.";
 
 /* Super Follow creator onboarding title on vip card */
 "SUPER_FOLLOW_CREATOR_ONBOARDING_VIP_CARD_TITLE" = "Find your people and get recognized";
@@ -24814,10 +25395,10 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "USER_LIST_DOWNLOAD_FAILED" = "Error while downloading the list of users. Please try again later.";
 
 /* Label for the number of super followers of a viewer account when there is more than 1. */
-"USER_SUPER_FOLLOWERS_COUNT_LABEL" = "Subscribers";
+"USER_SUPER_FOLLOWERS_COUNT_LABEL" = "Super Followers";
 
 /* Label for the number of followers of a viewer account when there is only 1. */
-"USER_SUPER_FOLLOWER_COUNT_LABEL" = "Subscriber";
+"USER_SUPER_FOLLOWER_COUNT_LABEL" = "Super Follower";
 
 /* Accessibility label for verified user icon */
 "VERIFIED_ACCESSIBILITY_LABEL" = "Verified";
@@ -25203,43 +25784,43 @@ eg. "- @jack" */
 "SUPER_FOLLOW_CREATOR_HANDLE_LABEL" = "- @%@";
 
 /* Description label for Super Follow education in for marketing page demonstration purposes */
-"SUPER_FOLLOW_EDUCATION_DESC_MARKETING_PAGE" = "Only Subscribers can see this Tweet";
+"SUPER_FOLLOW_EDUCATION_DESC_MARKETING_PAGE" = "Only Super Followers can see this Tweet";
 
 /* Description label for Super Follow education (new re-designed and simplified version) */
-"SUPER_FOLLOW_EDUCATION_DESC_REDESIGN" = "Subscription";
+"SUPER_FOLLOW_EDUCATION_DESC_REDESIGN" = "Super Follow";
 
 /* Description label for Super Follow education in for focal Tweet in Tweet details when the viewer is the author of the reply but not the author of the root Tweet */
-"SUPER_FOLLOW_EDUCATION_DESC_REPLY_VIEWER_IS_AUTHOR_FORMAT" = "@%@ and their Subscribers can see your Tweet";
+"SUPER_FOLLOW_EDUCATION_DESC_REPLY_VIEWER_IS_AUTHOR_FORMAT" = "@%@ and their Supper Followers can see your Tweet";
 
 /* Description label for Super Follow education in for focal Tweet in Tweet details when the viewer isn't an author. */
-"SUPER_FOLLOW_EDUCATION_DESC_VIEWER_IS_NOT_AUTHOR_TIMELINES_FORMAT" = "You can see this Tweet because you are Subscribed to @%@";
+"SUPER_FOLLOW_EDUCATION_DESC_VIEWER_IS_NOT_AUTHOR_TIMELINES_FORMAT" = "You can see this Tweet because you are Super Following @%@";
 
 /* Description label for Super Follow education in for focal Tweet in Tweet details when the viewer isn't an author. */
-"SUPER_FOLLOW_EDUCATION_DESC_VIEWER_IS_NOT_AUTHOR_TWEET_DETAILS_FORMAT" = "You can see this and reply because you are Subscribed to @%@";
+"SUPER_FOLLOW_EDUCATION_DESC_VIEWER_IS_NOT_AUTHOR_TWEET_DETAILS_FORMAT" = "You can see this and reply because you are Super Following @%@";
 
 /* Description label for Super Follow education in focal Tweet in Tweet details for Super Follow creators. */
-"SUPER_FOLLOW_EDUCATION_DESC_VIEWER_IS_ROOT_AUTHOR_LABEL" = "You and your Subscribers can see this Tweet";
+"SUPER_FOLLOW_EDUCATION_DESC_VIEWER_IS_ROOT_AUTHOR_LABEL" = "You and your Super Followers can see this Tweet";
 
 /* Title for Super Follow education for focal Tweet in Tweet details when viewed by the creator */
 "SUPER_FOLLOW_EDUCATION_TITLE_VIEWER_IS_AUTHOR_LABEL" = "Who can see this Tweet?";
 
 /* Title for Super Follow education for focal Tweet in Tweet details when viewed by a super follower */
-"SUPER_FOLLOW_EDUCATION_TITLE_VIEWER_IS_NOT_AUTHOR_LABEL" = "You’re seeing Subscription content";
+"SUPER_FOLLOW_EDUCATION_TITLE_VIEWER_IS_NOT_AUTHOR_LABEL" = "You’re seeing Super Follow content";
 
 /* Disclaimer text shown at the top of exclusive spaces */
-"SUPER_FOLLOW_EXCLUSIVE_SPACE_DISCLAIMER" = "Subscribers only";
+"SUPER_FOLLOW_EXCLUSIVE_SPACE_DISCLAIMER" = "Super Followers only";
 
 /* Footer text in the screen shown when opening an exclusive space you can't join as a non-super follower */
-"SUPER_FOLLOW_EXCLUSIVE_SPACE_ERROR_SCREEN_FOOTER" = "Subscriptions give you access to bonus content.";
+"SUPER_FOLLOW_EXCLUSIVE_SPACE_ERROR_SCREEN_FOOTER" = "Super Follows give you access to bonus content.";
 
 /* Label in screen shown when opening an exclusive space you can't join as a non-super follower showing how many listeners there are (Format: +<number of people>) */
 "SUPER_FOLLOW_EXCLUSIVE_SPACE_ERROR_SCREEN_LISTENER_COUNT" = "+%@";
 
 /* Body in the info screen shown when tapping on 'Only Super Followers can join' view in exclusive spaces */
-"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_BODY" = "One of the perks of being a Subscriber is exclusive access to Spaces like this one. Only you and %@’s other Subscribers can join this Space.";
+"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_BODY" = "One of the perks of being a Super Follower is exclusive access to Spaces like this one. Only you and %@’s other Super Followers can join this Space.";
 
 /* Body in the info screen shown when tapping on 'Only Super Followers can join' view in exclusive spaces */
-"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_BODY_USERNAME_UNAVAILABLE" = "One of the perks of being a Subscriber is exclusive access to Spaces like this one. Only you and this creator’s other Subscribers can join this Space.";
+"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_BODY_USERNAME_UNAVAILABLE" = "One of the perks of being a Super Follower is exclusive access to Spaces like this one. Only you and this creator’s other Super Followers can join this Space.";
 
 /* 'Got it' button in the info screen shown when tapping on 'Only Super Followers can join' view in exclusive spaces */
 "SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_GOT_IT_BUTTON" = "Got it";
@@ -25248,59 +25829,59 @@ eg. "- @jack" */
 "SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_LEARN_MORE_BUTTON" = "Learn more";
 
 /* Body in the info screen shown when tapping on 'Only Super Followers can join' view in exclusive spaces */
-"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_NON_SUBSCRIBER_BODY" = "One of the perks of being a Subscriber is exclusive access to Spaces like this one. Only %@’s Subscribers can join this Space.";
+"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_NON_SUBSCRIBER_BODY" = "One of the perks of being a Super Follower is exclusive access to Spaces like this one. Only %@’s Super Followers can join this Space.";
 
 /* Body in the info screen shown when tapping on 'Only Super Followers can join' view in exclusive spaces */
-"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_NON_SUBSCRIBER_BODY_USERNAME_UNAVAILABLE" = "One of the perks of being a Subscriber is exclusive access to Spaces like this one. Only this creator’s Subscribers can join this Space.";
+"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_NON_SUBSCRIBER_BODY_USERNAME_UNAVAILABLE" = "One of the perks of being a Super Follower is exclusive access to Spaces like this one. Only this creator’s Super Followers can join this Space.";
 
 /* Title in the info screen shown when tapping on 'Only Super Followers can join' view in exclusive spaces */
-"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_TITLE" = "Subscribing has its perks";
+"SUPER_FOLLOW_EXCLUSIVE_SPACE_INFO_SCREEN_TITLE" = "Super Following has its perks";
 
 /* Subtitle for header in Super Follow Marketing page. */
 "SUPER_FOLLOW_HEADER_SUBTITLE" = "Support your favorite people on Twitter for bonus content and extra perks.";
 
 /* Title for Super Follow Marketing page. */
-"SUPER_FOLLOW_HEADER_TITLE" = "Subscribe to";
+"SUPER_FOLLOW_HEADER_TITLE" = "Super Follow";
 
 /* Title with creator's name for Super Follow Marketing. %@ will be substituted with creator's name.
  eg. "Super Follow Shea Serrano"
  It is ok to swap the order accordingly to accommodate different languages */
-"SUPER_FOLLOW_HEADER_TITLE_WITH_CREATOR_NAME" = "Subscribe to %@";
+"SUPER_FOLLOW_HEADER_TITLE_WITH_CREATOR_NAME" = "Super Follow %@";
 
 /* Join button text for Super Follow Marketing Page when purchase ability is disabled */
-"SUPER_FOLLOW_JOIN_CTA_PURCHASE_DISABLED" = "Subscribe";
+"SUPER_FOLLOW_JOIN_CTA_PURCHASE_DISABLED" = "Super Follow";
 
 /* Join button text for Super Follow Marketing Page (eg. "Subscribe · $4.99") */
 "SUPER_FOLLOW_JOIN_CTA_WITH_PRICE" = "Subscribe · %@";
 
 /* Join button accessibility label text for Super Follow Marketing Page (eg. "Subscribe for $4.99") */
-"SUPER_FOLLOW_JOIN_CTA_WITH_PRICE_ACCESSIBILITY_LABEL_FORMAT" = "Subscribe for %@";
+"SUPER_FOLLOW_JOIN_CTA_WITH_PRICE_ACCESSIBILITY_LABEL_FORMAT" = "Super Follow for %@";
 
 /* Join button text for Super Follow Marketing Page. %1$@ will be substituted with localized price and %2$@ will be substituted with billing period like year, mo (mo is for month)
  eg. "Subscribe · $4.99/mo" */
-"SUPER_FOLLOW_JOIN_CTA_WITH_PRICE_AND_PERIOD" = "Subscribe · %1$@/%2$@";
+"SUPER_FOLLOW_JOIN_CTA_WITH_PRICE_AND_PERIOD" = "Super Follow · %1$@/%2$@";
 
 /* Join button accessibility label text for Super Follow Marketing Page. %1$@ will be substituted with localized price and %2$@ will be substituted with billing period like year, mo (mo is for month)
  eg. "Subscribe for $4.99 per month" */
-"SUPER_FOLLOW_JOIN_CTA_WITH_PRICE_AND_PERIOD_ACCESSIBILITY_LABEL_FORMAT" = "Subscribe for %1$@ per %2$@";
+"SUPER_FOLLOW_JOIN_CTA_WITH_PRICE_AND_PERIOD_ACCESSIBILITY_LABEL_FORMAT" = "Super Follow for %1$@ per %2$@";
 
 /* Title of the large super follow button. Shown in Exclusive Space screen when opened by a non-super follower. Format: 'Super Follow <account>' */
-"SUPER_FOLLOW_LARGE_SUPER_FOLLOW_BUTTON_TEXT" = "Subscribe to %@";
+"SUPER_FOLLOW_LARGE_SUPER_FOLLOW_BUTTON_TEXT" = "Super Follow %@";
 
 /* Alert message for the app store connectivity errors */
-"SUPER_FOLLOW_MARKETING_ERROR_APP_STORE_MESSAGE" = "Please try subscribing to this account again in the future.";
+"SUPER_FOLLOW_MARKETING_ERROR_APP_STORE_MESSAGE" = "Please try Super Following this account again in the future.";
 
 /* Alert title for the app store connectivity errors */
-"SUPER_FOLLOW_MARKETING_ERROR_APP_STORE_TITLE" = "Subscriptions to this account are not yet enabled on iOS";
+"SUPER_FOLLOW_MARKETING_ERROR_APP_STORE_TITLE" = "Super Follows to this account are not yet enabled on iOS";
 
 /* Alert message for the country restriction error */
-"SUPER_FOLLOW_MARKETING_ERROR_COUNTRY_RESTRICTION_MESSAGE" = "Thank you for your interest! Subscriptions aren’t available in your country yet. Please check back later.";
+"SUPER_FOLLOW_MARKETING_ERROR_COUNTRY_RESTRICTION_MESSAGE" = "Thank you for your interest! Super Follows aren’t available in your country yet. Please check back later.";
 
 /* Alert title for the country restriction error */
-"SUPER_FOLLOW_MARKETING_ERROR_COUNTRY_RESTRICTION_TITLE" = "Subscriptions aren’t currently available in your country";
+"SUPER_FOLLOW_MARKETING_ERROR_COUNTRY_RESTRICTION_TITLE" = "Super Follows aren’t currently available in your country";
 
 /* Alert message for recoverable purchase error */
-"SUPER_FOLLOW_MARKETING_ERROR_RECOVERABLE_PURCHASE_ERROR_MESSAGE" = "Your new Subscription benefits will be available shortly";
+"SUPER_FOLLOW_MARKETING_ERROR_RECOVERABLE_PURCHASE_ERROR_MESSAGE" = "Your new Super Follow benefits will be available shortly";
 
 /* Alert title for the an recoverable purchase error */
 "SUPER_FOLLOW_MARKETING_ERROR_RECOVERABLE_PURCHASE_ERROR_TITLE" = "Thanks for your purchase!";
@@ -25312,7 +25893,7 @@ eg. "- @jack" */
 "SUPER_FOLLOW_MARKETING_ERROR_UNRECOVERABLE_PURCHASE_ERROR_TITLE" = "Unable to purchase";
 
 /* Navigation title for Super Follow Marketing Page */
-"SUPER_FOLLOW_NAVIGATION_TITLE" = "Subscriptions";
+"SUPER_FOLLOW_NAVIGATION_TITLE" = "Super Follows";
 
 /* Alert message for the deferred purchase alert */
 "SUPER_FOLLOW_PURCHASE_DEFERRED_MESSAGE" = "You will be notified when your purchase is completed by your purchase authorizer.";
@@ -25366,10 +25947,10 @@ eg. "- @jack" */
 "VOICE_ROOM_AUDIENCE_TYPE_PUBLIC_ABBREVIATED" = "Anyone";
 
 /* Name of the "Super Followers" audience for Audio Spaces. The Space is only visible and can only be joined by people who super follow you. */
-"VOICE_ROOM_AUDIENCE_TYPE_SUPER_FOLLOWERS" = "Only Subscribers can join";
+"VOICE_ROOM_AUDIENCE_TYPE_SUPER_FOLLOWERS" = "Only Super Followers can join";
 
 /* Name of the "Super Followers" audience for Audio Spaces, abbreviated for use in small UI elements. The Space is only visible and can only be joined by people who super follow you. */
-"VOICE_ROOM_AUDIENCE_TYPE_SUPER_FOLLOWERS_ABBREVIATED" = "Subscribers only";
+"VOICE_ROOM_AUDIENCE_TYPE_SUPER_FOLLOWERS_ABBREVIATED" = "Super Followers only";
 
 /* Title of the local notification displayed when the Admin of an Audio Space blocked and removed the user from it. This local notification is visible by the blocked user themselves. */
 "VOICE_ROOM_BLOCKED_AND_REMOVED_BY_ADMIN_TOAST" = "You have been removed from this Space.";
@@ -25435,7 +26016,7 @@ eg. "- @jack" */
 "VOICE_ROOM_CARD_STATE_RECORDED" = "Recorded";
 
 /* Displayed on an Audio Space Card, when it's Super Followers exclusive. */
-"VOICE_ROOM_CARD_SUPER_FOLLOWERS_ONLY" = "Only Subscribers can join";
+"VOICE_ROOM_CARD_SUPER_FOLLOWERS_ONLY" = "Only Super Followers can join";
 
 /* Prefix displayed before the name of the host of an AudioSpace on a Clip card */
 "VOICE_ROOM_CLIP_CARD_ACCESSIBILITY_HINT" = "Plays the Clip";
@@ -27362,10 +27943,10 @@ eg. "- @jack" */
 "TWEET_AUDIENCE_SELECTOR_PUBLIC_AUDIENCE_LABEL" = "Everyone";
 
 /* Accessibility hint for Audience selector item Super Followers in composer */
-"TWEET_AUDIENCE_SELECTOR_SUPER_FOLLOWERS_ACCESSIBILITY_HINT" = "Compose Tweet to your Subscribers";
+"TWEET_AUDIENCE_SELECTOR_SUPER_FOLLOWERS_ACCESSIBILITY_HINT" = "Compose Tweet to your Super Followers";
 
 /* Label for Audience selector item Super Followers in composer */
-"TWEET_AUDIENCE_SELECTOR_SUPER_FOLLOWERS_AUDIENCE_LABEL" = "Subscribers";
+"TWEET_AUDIENCE_SELECTOR_SUPER_FOLLOWERS_AUDIENCE_LABEL" = "Super Followers";
 
 /* Title shown at the top of the Tweet Audience selector, which allows the user to select an audience for their Tweet (e.g. public, super followers, or a Community).  */
 "TWEET_AUDIENCE_SELECTOR_TITLE" = "Choose audience";
